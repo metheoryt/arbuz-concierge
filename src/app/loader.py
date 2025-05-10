@@ -93,7 +93,6 @@ def get_catalog_products(s: HTTPSession, cat: Category, limit: int = 40, page: i
 
 
 def import_category(s: Session, cs: CategorySchema) -> Category:
-    log.info("importing %s", cs)
     parent_cat = None
     if cs.parent_id:
         parent_cs = get_base_categories()[cs.parent_id]
@@ -258,10 +257,11 @@ def load_category(cs: CategorySchema, client: HTTPSession, s: Session):
             return
         else:
             raise
-
-    log.info("importing %d subcategories for %s", len(sub_css), cs.name)
+    if sub_css:
+        log.info("importing %d subcategories for %s", len(sub_css), cs.name)
     for sub_cs in sub_css:
         load_category(sub_cs, client, s)
+    s.commit()
 
 
 def load_categories() -> None:
