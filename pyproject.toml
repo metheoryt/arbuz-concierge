@@ -1,0 +1,93 @@
+[project]
+name = "ai-cart-arbuz"
+version = "0.1.0"
+description = "A smart cart assistant for Arbuz.kz"
+authors = ["Maxim Romanyuk <metheoryt@gmail.com>"]
+requires-python = ">=3.12"
+packages = [
+    { include = "app", from = "src" }
+]
+dependencies = [
+    "alembic>=1.15.2",
+    "asyncpg>=0.30.0",
+    "html2text>=2025.4.15",
+    "marvin>=3.0.6",
+    "psycopg[binary]>=3.2.7",
+    "pydantic>=2.11.4",
+    "pydantic-settings>=2.9.1",
+    "python-dotenv>=1.1.0",
+    "requests>=2.32.3",
+    "sqlalchemy>=2.0.40",
+]
+
+[dependency-groups]
+dev = [
+    "pre-commit>=4.2.0",
+    "ruff>=0.11.8",
+]
+
+########
+# ruff linter/formatter
+########
+# $ ruff check --show-settings
+# to see full config
+[tool.ruff]
+exclude = [
+    ".git",
+    "__pycache__",
+    ".venv",
+]
+line-length = 120
+indent-width = 4
+target-version = "py312"
+
+[tool.ruff.lint]
+# Uncomment additional rules when ready to fix
+select = [
+    "I",    # Import sorting (isort-like)
+    "F",    # Pyflakes rules
+    "E",    # PEP8 rules
+    "W",    # flake8 warnings
+#    "ANN",  # Annotations (type hints)
+    "ARG",  # Argument-related checks
+    "B",    # Bugbear (antipatterns) (optional but useful)
+    "C",    # Complexity checks
+    "C4",   # Non-optimal list comprehensions
+    "N",    # Naming conventions
+    "UP",   # Old style syntax
+#    "PL",   # Potentially problematic patterns
+    "PT",   # Python 3-specific patterns
+    "SIM"   # Simplification suggestions
+]
+
+# Remove when ready to fix
+ignore = [
+#    "E501",  # Line too long
+#    "E731",  # Do not assign a `lambda` expression, use a `def`
+#    "F841",  # Local variable is assigned to but never used
+]
+# Allow fix for all enabled rules (when `--fix`) is provided.
+fixable = ["ALL"]
+unfixable = []
+
+# Import sorting (isort-like)
+[tool.ruff.lint.isort]
+combine-as-imports = true
+
+# Optional: enable docstring linting
+[tool.ruff.lint.pydocstyle]
+convention = "numpy"  # or "google", "pep257" based on your style
+
+[tool.ruff.format]
+# Like Black, use double quotes for strings.
+quote-style = "double"
+# Like Black, indent with spaces, rather than tabs.
+indent-style = "space"
+# Like Black, respect magic trailing commas.
+skip-magic-trailing-comma = false
+# Like Black, automatically detect the appropriate line ending.
+line-ending = "auto"
+
+[tool.ruff.lint.mccabe]
+# max complexity for "C" category
+max-complexity = 10

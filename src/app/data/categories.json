@@ -1,0 +1,1916 @@
+[
+  {
+    "id": 225443,
+    "name": "Скидки",
+    "uri": "/ru/almaty/catalog/cat/225443-skidki",
+    "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225443-skidki.svg",
+    "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225443-skidki.png?w=%w&h=%h&_c=1731667231",
+    "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225443-skidki_pryamougolnaya_png.png",
+    "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225443-discount_icon_png.png?w=%w&h=%h&_c=1731667231",
+    "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225443-skidki_square_svg.svg",
+    "cssClass": null,
+    "children": {
+      "0": {
+        "id": 225164,
+        "name": "Овощи, фрукты, зелень",
+        "uri": "/ru/almaty/catalog/cat/225164-ovoshi_frukty_zelen",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225164-svezhie_ovoshi_i_frukty.svg",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225164-svezhie_ovoshi_i_frukty.png?w=%w&h=%h&_c=1745164176",
+        "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225164-svezhie_ovoshi_i_frukty_pryamougolnye_svg.svg",
+        "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225164-svezhie_ovoshi_i_frukty_pryamougolnaya_png.png?w=%w&h=%h&_c=1745164176",
+        "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225164-svezhie_ovoshi_i_frukty_square_svg.svg",
+        "cssClass": null
+      },
+      "1": {
+        "id": 225161,
+        "name": "Молоко, сыр и яйца",
+        "uri": "/ru/almaty/catalog/cat/225161-moloko_syr_i_yaica",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225161-moloko_syr_maslo_yaica.svg",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225161-moloko_syr_maslo_yaica.png?w=%w&h=%h&_c=1746678237",
+        "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225161-moloko_syr_maslo_yaica_rectangle_svg.svg",
+        "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225161-moloko_syr_maslo_yai_ca_pryamougolnya_png.png?w=%w&h=%h&_c=1746678237",
+        "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225161-moloko_syr_maslo_yaica_square_svg.svg",
+        "cssClass": null
+      },
+      "2": {
+        "id": 225162,
+        "name": "Мясо, птица и рыба",
+        "uri": "/ru/almaty/catalog/cat/225162-myaso_ptica_i_ryba",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225162-myaso_ptica.svg",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225162-myaso_ptica.png?w=%w&h=%h&_c=1745164176",
+        "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225162-myaso_ptica_pryamougolnaya_png.png",
+        "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225162-myaso_ptica_png.png?w=%w&h=%h&_c=1745164176",
+        "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225162-myaso_ptica_square_svg.svg",
+        "cssClass": null
+      },
+      "3": {
+        "id": 225169,
+        "name": "Бакалея",
+        "uri": "/ru/almaty/catalog/cat/225169-bakaleya",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon__225169-bakaleya.svg",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225169-bakaleya.svg?w=%w&h=%h&_c=1745164176",
+        "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225169-krupy_konservy_sneki_pryamougolnaya_png.png",
+        "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225169-krupy_konservy_sneki_rectangle_png.png?w=%w&h=%h&_c=1745164176",
+        "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225169-krupy_konservy_sneki_square_svg.svg",
+        "cssClass": null
+      },
+      "4": {
+        "id": 14,
+        "name": "Вода и напитки",
+        "uri": "/ru/almaty/catalog/cat/14-voda_i_napitki",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/14-napitki.svg",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/14-napitki.png?w=%w&h=%h&_c=1745164176",
+        "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/14-napitki_pryamougolnaya_png.png",
+        "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/14-napitki_rectangle_png.png?w=%w&h=%h&_c=1745164176",
+        "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/14-napitki_square_svg.svg",
+        "cssClass": null
+      },
+      "5": {
+        "id": 225165,
+        "name": "Хлеб и выпечка",
+        "uri": "/ru/almaty/catalog/cat/225165-hleb_i_vypechka",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225165-hleb_vypechka.svg",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225165-hleb_vypechka.png?w=%w&h=%h&_c=1745580880",
+        "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225165-hleb_vypechka_pryamougolnaya_png.png",
+        "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225165-hleb_vypechka_rectangle_png.png?w=%w&h=%h&_c=1745580880",
+        "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225165-hleb_vypechka_square_svg.svg",
+        "cssClass": null
+      },
+      "6": {
+        "id": 225253,
+        "name": "Готовая еда",
+        "uri": "/ru/almaty/catalog/cat/225253-gotovaya_eda",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225253-kulinariya.svg",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225253-kulinariya.png?w=%w&h=%h&_c=1745580884",
+        "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225253-kulinariya-rectangle_svg.svg",
+        "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225253-kulinariya_pryamougolnaya_png.png?w=%w&h=%h&_c=1745580884",
+        "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225253-kulinariya-square_svg.svg",
+        "cssClass": null
+      },
+      "7": {
+        "id": 16,
+        "name": "Всё для дома",
+        "uri": "/ru/almaty/catalog/cat/16-vs_dlya_doma",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/16-vs_dlya_doma.svg",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/16-vs_dlya_doma.png?w=%w&h=%h&_c=1745580884",
+        "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/16-vse_dlya_doma_pryamougolnaya_png.png",
+        "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/16-vs_dlya_doma_rectangle_png.png?w=%w&h=%h&_c=1745580884",
+        "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/16-vs_dlya_doma_square_svg.svg",
+        "cssClass": null
+      },
+      "8": {
+        "id": 224407,
+        "name": "Косметика и средства личной гигиены",
+        "uri": "/ru/almaty/catalog/cat/224407-kosmetika_i_sredstva_lichnoi_gigieny",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/224407-krasota.svg",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/224407-krasota.png?w=%w&h=%h&_c=1745580884",
+        "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/224407-krasota_pryamougolnaya_png.png",
+        "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/224407-krasota_rectangle_png.png?w=%w&h=%h&_c=1745580884",
+        "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/224407-krasota_square_svg.svg",
+        "cssClass": null
+      },
+      "9": {
+        "id": 225268,
+        "name": "Фермерская лавка",
+        "uri": "/ru/almaty/catalog/cat/225268-fermerskaya_lavka",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225268-fermerskaya_lavka.svg",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225268-fermerskaya_lavka.png?w=%w&h=%h&_c=1745580884",
+        "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225268-fermerskaya_lavka_rectangle_svg.svg",
+        "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225268-fermerskaya_lavka_pryamougolnaya_png.png?w=%w&h=%h&_c=1745580884",
+        "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225268-fermerskaya_lavka_square_svg.svg",
+        "cssClass": null
+      },
+      "10": {
+        "id": 225183,
+        "name": "Замороженные продукты",
+        "uri": "/ru/almaty/catalog/cat/225183-zamorozhennye_produkty",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225183-zamorozhennye_produkty.svg",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225183-zamorozhennye_produkty.png?w=%w&h=%h&_c=1745580884",
+        "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225183-zamorozhennye_produkty_pryamougolnaya_png.png",
+        "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225183-zamorozhennye_produkty_rectangle_png.png?w=%w&h=%h&_c=1745580884",
+        "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225183-zamorozhennye_produkty_square_svg.svg",
+        "cssClass": null
+      },
+      "11": {
+        "id": 224645,
+        "name": "Диетические продукты",
+        "uri": "/ru/almaty/catalog/cat/224645-dieticheskie_produkty",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon__224645-zdorovoe_pitanie.svg",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__224645-zdorovoe_pitanie.svg?w=%w&h=%h&_c=1745580884",
+        "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_rect__224645-gorizontalnye_ikonki-03_svg.svg",
+        "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_rect_png__224645-zdorove_png.png?w=%w&h=%h&_c=1745580884",
+        "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_square__224645-gorizontalnye_ikonki_svg.svg",
+        "cssClass": null
+      },
+      "12": {
+        "id": 224938,
+        "name": "Органические товары",
+        "uri": "/ru/almaty/catalog/cat/224938-organicheskie_tovary",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon__224938-organicheskie_tovary.svg",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__224938-organicheskie_tovary.webp?w=%w&h=%h&_c=1745580884",
+        "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_rect__224938-225244-rastitelnye_produkty_pryamougolnaya_png_webp.webp",
+        "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_rect_png__224938-225244-rastitelnye_produkty_rectangle_png_webp.webp?w=%w&h=%h&_c=1745580884",
+        "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_square__224938-225244-rastitelnye_produkty_square_svg_svg.svg",
+        "cssClass": null
+      },
+      "13": {
+        "id": 225166,
+        "name": "Сладости",
+        "uri": "/ru/almaty/catalog/cat/225166-sladosti",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225166-sladosti.svg",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225166-sladosti.png?w=%w&h=%h&_c=1745580884",
+        "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225166-sladosti_pryamougolnaya_png.png",
+        "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225166-sladosti_rectangle_png.png?w=%w&h=%h&_c=1745580884",
+        "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225166-sladosti_square_svg.svg",
+        "cssClass": null
+      },
+      "14": {
+        "id": 19,
+        "name": "Для детей и их родителей",
+        "uri": "/ru/almaty/catalog/cat/19-dlya_detei_i_ih_roditelei",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/19-detyam.svg",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/19-detyam.png?w=%w&h=%h&_c=1745580884",
+        "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/19-detyam_pryamougolnaya_png.png",
+        "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/19-detyam_rectangle_png.png?w=%w&h=%h&_c=1745580884",
+        "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/19-detyam_square_svg.svg",
+        "cssClass": null
+      },
+      "15": {
+        "id": 225167,
+        "name": "Колбасы и деликатесы",
+        "uri": "/ru/almaty/catalog/cat/225167-kolbasy_i_delikatesy",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225167-kolbasy.svg",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225167-kolbasy.png?w=%w&h=%h&_c=1745580884",
+        "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225167-kolbasy_pryamougolnaya_png.png",
+        "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225167-kolbasy_rectangle_png.png?w=%w&h=%h&_c=1745580884",
+        "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225167-kolbasy_square_svg.svg",
+        "cssClass": null
+      },
+      "16": {
+        "id": 225602,
+        "name": "Орехи, сухофрукты и снеки",
+        "uri": "/ru/almaty/catalog/cat/225602-orehi_suhofrukty_i_sneki",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon__225602-orehi_i_sneki.svg",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225602-orehi_i_sneki.svg?w=%w&h=%h&_c=1745580884",
+        "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_rect__225602-orehi_pryamougolnaya_svg.svg",
+        "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_rect_png__225602-orehi-pryamougolnaya_png.png?w=%w&h=%h&_c=1745580884",
+        "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_square__225602-orehi_kvadratnaya_svg.svg",
+        "cssClass": null
+      },
+      "17": {
+        "id": 20,
+        "name": "Zoo Магазин",
+        "uri": "/ru/almaty/catalog/cat/20-zoo_magazin",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/20-zoo_magazin.svg",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/20-zoo_magazin.png?w=%w&h=%h&_c=1745164176",
+        "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/20-zoo_magazin_pryamougolnaya_png.png",
+        "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/20-zoo_magazin_rectangle_png.png?w=%w&h=%h&_c=1745164176",
+        "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/20-zoo_magazin_square_svg.svg",
+        "cssClass": null
+      },
+      "18": {
+        "id": 225606,
+        "name": "Импортные товары",
+        "uri": "/ru/almaty/catalog/cat/225606-importnye_tovary",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon__225606-importnye_tovary.svg",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225606-importnye_tovary.svg?w=%w&h=%h&_c=1745164176",
+        "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_rect__225606-gorizontalnye_ikonki_1_svg.svg",
+        "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_rect_png__225606-montazhnaya_oblast_3_1_png.png?w=%w&h=%h&_c=1745164176",
+        "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_square__225606-gorizontalnye_ikonki_1_svg.svg",
+        "cssClass": null
+      },
+      "19": {
+        "id": 225504,
+        "name": "Аптека",
+        "uri": "/ru/almaty/catalog/cat/225504-apteka",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon__225504-apteka.svg",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225504-apteka.webp?w=%w&h=%h&_c=1745164176",
+        "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_rect__225504-225075-zdorove_pryamougolnaya_png_webp.webp",
+        "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_rect_png__225504-225075-apteka_rectangle_png_webp.webp?w=%w&h=%h&_c=1745164176",
+        "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_square__225504-225075-apteka_square_svg_svg.svg",
+        "cssClass": null
+      },
+      "20": {
+        "id": 225063,
+        "name": "К празднику",
+        "uri": "/ru/almaty/catalog/cat/225063-k_prazdniku",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225063-k_prazdniku.svg",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225063-k_prazdniku.png?w=%w&h=%h&_c=1745164176",
+        "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225063-k_prazdniku_pryamougolnaya_png.png",
+        "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225063-k_prazdniku_rectangle_png.png?w=%w&h=%h&_c=1745164176",
+        "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225063-k_prazdniku_square_svg.svg",
+        "cssClass": null
+      }
+    }
+  },
+  {
+    "id": 225164,
+    "name": "Овощи, фрукты, зелень",
+    "uri": "/ru/almaty/catalog/cat/225164-ovoshi_frukty_zelen",
+    "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225164-svezhie_ovoshi_i_frukty.svg",
+    "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225164-svezhie_ovoshi_i_frukty.png?w=%w&h=%h&_c=1745164176",
+    "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225164-svezhie_ovoshi_i_frukty_pryamougolnye_svg.svg",
+    "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225164-svezhie_ovoshi_i_frukty_pryamougolnaya_png.png?w=%w&h=%h&_c=1745164176",
+    "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225164-svezhie_ovoshi_i_frukty_square_svg.svg",
+    "cssClass": null,
+    "children": {
+      "0": {
+        "id": 225178,
+        "name": "Овощи",
+        "uri": "/ru/almaty/catalog/cat/225178-ovoshi",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225178-ovoshi.png?w=%w&h=%h&_c=1732977607",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "1": {
+        "id": 225176,
+        "name": "Зелень",
+        "uri": "/ru/almaty/catalog/cat/225176-zelen",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225176-zelen.png?w=%w&h=%h&_c=1732977592",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "2": {
+        "id": 225444,
+        "name": "Грибы",
+        "uri": "/ru/almaty/catalog/cat/225444-griby",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225444-griby.jpg?w=%w&h=%h&_c=1732977539",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "3": {
+        "id": 225177,
+        "name": "Фрукты",
+        "uri": "/ru/almaty/catalog/cat/225177-frukty",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225177-frukty.png?w=%w&h=%h&_c=1726614177",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "4": {
+        "id": 225562,
+        "name": "Ягоды",
+        "uri": "/ru/almaty/catalog/cat/225562-yagody",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225562-yagody.png?w=%w&h=%h&_c=1726614177",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "5": {
+        "id": 225445,
+        "name": "Соленья",
+        "uri": "/ru/almaty/catalog/cat/225445-solenya",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225445-solenya.jpg?w=%w&h=%h&_c=1725256529",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "6": {
+        "id": 225189,
+        "name": "Фрукты и овощи замороженные",
+        "uri": "/ru/almaty/catalog/cat/225189-frukty_i_ovoshi_zamorozhennye",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225189-frukty_i_ovoshi_zamorozhennye.png?w=%w&h=%h&_c=1726613895",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      }
+    }
+  },
+  {
+    "id": 225161,
+    "name": "Молоко, сыр и яйца",
+    "uri": "/ru/almaty/catalog/cat/225161-moloko_syr_i_yaica",
+    "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225161-moloko_syr_maslo_yaica.svg",
+    "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225161-moloko_syr_maslo_yaica.png?w=%w&h=%h&_c=1746678237",
+    "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225161-moloko_syr_maslo_yaica_rectangle_svg.svg",
+    "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225161-moloko_syr_maslo_yai_ca_pryamougolnya_png.png?w=%w&h=%h&_c=1746678237",
+    "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225161-moloko_syr_maslo_yaica_square_svg.svg",
+    "cssClass": null,
+    "children": {
+      "0": {
+        "id": 19986,
+        "name": "Молоко, сливки",
+        "uri": "/ru/almaty/catalog/cat/19986-moloko_slivki",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/19986-moloko_smetana_maslo.png?w=%w&h=%h&_c=1724925933",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "1": {
+        "id": 20160,
+        "name": "Сыр",
+        "uri": "/ru/almaty/catalog/cat/20160-syr",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/20160-syry.png?w=%w&h=%h&_c=1725471863",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "2": {
+        "id": 225446,
+        "name": "Кефир, творог, сметана",
+        "uri": "/ru/almaty/catalog/cat/225446-kefir_tvorog_smetana",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225446-kefir_tvorog_smetana.jpg?w=%w&h=%h&_c=1726456450",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "3": {
+        "id": 225245,
+        "name": "Яйца, масло, маргарин",
+        "uri": "/ru/almaty/catalog/cat/225245-yaica_maslo_margarin",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225245-yaica.png?w=%w&h=%h&_c=1726456426",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "4": {
+        "id": 225171,
+        "name": "Йогурты, сырки, десерты",
+        "uri": "/ru/almaty/catalog/cat/225171-iogurty_syrki_deserty",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225171-iogurty_i_tvorozhnye_syrki.png?w=%w&h=%h&_c=1725950665",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      }
+    }
+  },
+  {
+    "id": 225162,
+    "name": "Мясо, птица и рыба",
+    "uri": "/ru/almaty/catalog/cat/225162-myaso_ptica_i_ryba",
+    "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225162-myaso_ptica.svg",
+    "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225162-myaso_ptica.png?w=%w&h=%h&_c=1745164176",
+    "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225162-myaso_ptica_pryamougolnaya_png.png",
+    "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225162-myaso_ptica_png.png?w=%w&h=%h&_c=1745164176",
+    "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225162-myaso_ptica_square_svg.svg",
+    "cssClass": null,
+    "children": {
+      "0": {
+        "id": 19907,
+        "name": "Мясо и стейки",
+        "uri": "/ru/almaty/catalog/cat/19907-myaso_i_steiki",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/19907-myaso.png?w=%w&h=%h&_c=1726221562",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "1": {
+        "id": 225599,
+        "name": "Фарш",
+        "uri": "/ru/almaty/catalog/cat/225599-farsh",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225599-farsh.png?w=%w&h=%h&_c=1726569566",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "2": {
+        "id": 225609,
+        "name": "Полуфабрикаты и маринады",
+        "uri": "/ru/almaty/catalog/cat/225609-polufabrikaty_i_marinady",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225609-polufabrikaty_i_marinady.png?w=%w&h=%h&_c=1727287828",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "3": {
+        "id": 225173,
+        "name": "Курица, индейка и птица",
+        "uri": "/ru/almaty/catalog/cat/225173-kurica_indeika_i_ptica",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225173-ptica.png?w=%w&h=%h&_c=1726569566",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "4": {
+        "id": 225175,
+        "name": "Рыба",
+        "uri": "/ru/almaty/catalog/cat/225175-ryba",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225175-ryba.png?w=%w&h=%h&_c=1728388298",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "5": {
+        "id": 225174,
+        "name": "Морепродукты",
+        "uri": "/ru/almaty/catalog/cat/225174-moreprodukty",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225174-moreprodukty.png?w=%w&h=%h&_c=1728388294",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      }
+    }
+  },
+  {
+    "id": 225169,
+    "name": "Бакалея",
+    "uri": "/ru/almaty/catalog/cat/225169-bakaleya",
+    "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon__225169-bakaleya.svg",
+    "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225169-bakaleya.svg?w=%w&h=%h&_c=1745164176",
+    "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225169-krupy_konservy_sneki_pryamougolnaya_png.png",
+    "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225169-krupy_konservy_sneki_rectangle_png.png?w=%w&h=%h&_c=1745164176",
+    "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225169-krupy_konservy_sneki_square_svg.svg",
+    "cssClass": null,
+    "children": {
+      "0": {
+        "id": 224399,
+        "name": "Макароны и лапша",
+        "uri": "/ru/almaty/catalog/cat/224399-makarony_i_lapsha",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/224399-makarony_i_lapsha.png?w=%w&h=%h&_c=1726609711",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "1": {
+        "id": 224398,
+        "name": "Крупы, бобовые",
+        "uri": "/ru/almaty/catalog/cat/224398-krupy_bobovye",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/224398-krupy_bobovye.png?w=%w&h=%h&_c=1726609711",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "2": {
+        "id": 20205,
+        "name": "Консервы",
+        "uri": "/ru/almaty/catalog/cat/20205-konservy",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/20205-konservy.png?w=%w&h=%h&_c=1726609711",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "3": {
+        "id": 225448,
+        "name": "Масло растительное",
+        "uri": "/ru/almaty/catalog/cat/225448-maslo_rastitelnoe",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225448-maslo_rastitelnoe.png?w=%w&h=%h&_c=1740636132",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "4": {
+        "id": 224588,
+        "name": "Майонез, кетчуп, горчица",
+        "uri": "/ru/almaty/catalog/cat/224588-maionez_ketchup_gorchica",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__224588-maionez_ketchup_gorchica.png?w=%w&h=%h&_c=1728388361",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "5": {
+        "id": 225450,
+        "name": "Соусы и уксусы",
+        "uri": "/ru/almaty/catalog/cat/225450-sousy_i_uksusy",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225450-sousy_i_uksusy.jpg?w=%w&h=%h&_c=1727768512",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "6": {
+        "id": 224402,
+        "name": "Сахар, соль, специи",
+        "uri": "/ru/almaty/catalog/cat/224402-sahar_sol_specii",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__224402-sahar_sol_specii.png?w=%w&h=%h&_c=1731685232",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "7": {
+        "id": 224533,
+        "name": "Сухие завтраки",
+        "uri": "/ru/almaty/catalog/cat/224533-suhie_zavtraki",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/224533-zavtraki.png?w=%w&h=%h&_c=1744803384",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "8": {
+        "id": 25400,
+        "name": "Еда быстрого приготовления",
+        "uri": "/ru/almaty/catalog/cat/25400-eda_bystrogo_prigotovleniya",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/25400-produkty_bystrogo_prigotovleniya.png?w=%w&h=%h&_c=1744803386",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "9": {
+        "id": 225181,
+        "name": "Мука, ингредиенты для выпечки",
+        "uri": "/ru/almaty/catalog/cat/225181-muka_ingredienty_dlya_vypechki",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon__225181-dlya_vypechki.webp",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225181-dlya_vypechki.png?w=%w&h=%h&_c=1744803387",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "10": {
+        "id": 225496,
+        "name": "Кофе, чай, какао",
+        "uri": "/ru/almaty/catalog/cat/225496-kofe_chai_kakao",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225496-kofe_chai_kakao.png?w=%w&h=%h&_c=1744803387",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      }
+    }
+  },
+  {
+    "id": 14,
+    "name": "Вода и напитки",
+    "uri": "/ru/almaty/catalog/cat/14-voda_i_napitki",
+    "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/14-napitki.svg",
+    "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/14-napitki.png?w=%w&h=%h&_c=1745164176",
+    "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/14-napitki_pryamougolnaya_png.png",
+    "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/14-napitki_rectangle_png.png?w=%w&h=%h&_c=1745164176",
+    "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/14-napitki_square_svg.svg",
+    "cssClass": null,
+    "children": {
+      "0": {
+        "id": 20697,
+        "name": "Вода",
+        "uri": "/ru/almaty/catalog/cat/20697-voda",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/20697-voda.jpg?w=%w&h=%h&_c=1726666344",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "1": {
+        "id": 20784,
+        "name": "Газировка и энергетики",
+        "uri": "/ru/almaty/catalog/cat/20784-gazirovka_i_energetiki",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/20784-gazirovannye_napitki.jpg?w=%w&h=%h&_c=1726666411",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "2": {
+        "id": 20739,
+        "name": "Соки и морсы",
+        "uri": "/ru/almaty/catalog/cat/20739-soki_i_morsy",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/20739-rastitelnye_napitki.jpg?w=%w&h=%h&_c=1726456078",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "3": {
+        "id": 225447,
+        "name": "Чай",
+        "uri": "/ru/almaty/catalog/cat/225447-chai",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225447-chai.jpg?w=%w&h=%h&_c=1740636654",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "4": {
+        "id": 225172,
+        "name": "Кофе и какао",
+        "uri": "/ru/almaty/catalog/cat/225172-kofe_i_kakao",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225172-kofe_i_kakao.jpg?w=%w&h=%h&_c=1726666354",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      }
+    }
+  },
+  {
+    "id": 225165,
+    "name": "Хлеб и выпечка",
+    "uri": "/ru/almaty/catalog/cat/225165-hleb_i_vypechka",
+    "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225165-hleb_vypechka.svg",
+    "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225165-hleb_vypechka.png?w=%w&h=%h&_c=1745580880",
+    "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225165-hleb_vypechka_pryamougolnaya_png.png",
+    "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225165-hleb_vypechka_rectangle_png.png?w=%w&h=%h&_c=1745580880",
+    "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225165-hleb_vypechka_square_svg.svg",
+    "cssClass": null,
+    "children": {
+      "0": {
+        "id": 20118,
+        "name": "Хлеб и хлебцы",
+        "uri": "/ru/almaty/catalog/cat/20118-hleb_i_hlebcy",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/20118-hleb.png?w=%w&h=%h&_c=1724930809",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "1": {
+        "id": 225179,
+        "name": "Выпечка",
+        "uri": "/ru/almaty/catalog/cat/225179-vypechka",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225179-vypechka.png?w=%w&h=%h&_c=1740637971",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "2": {
+        "id": 225452,
+        "name": "Лаваши и лепешки",
+        "uri": "/ru/almaty/catalog/cat/225452-lavashi_i_lepeshki",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225452-lavash_pita_lepeshka.jpg?w=%w&h=%h&_c=1726604851",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      }
+    }
+  },
+  {
+    "id": 225253,
+    "name": "Готовая еда",
+    "uri": "/ru/almaty/catalog/cat/225253-gotovaya_eda",
+    "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225253-kulinariya.svg",
+    "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225253-kulinariya.png?w=%w&h=%h&_c=1745580884",
+    "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225253-kulinariya-rectangle_svg.svg",
+    "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225253-kulinariya_pryamougolnaya_png.png?w=%w&h=%h&_c=1745580884",
+    "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225253-kulinariya-square_svg.svg",
+    "cssClass": null,
+    "children": {
+      "0": {
+        "id": 225576,
+        "name": "Завтраки",
+        "uri": "/ru/almaty/catalog/cat/225576-zavtraki",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225576-zavtraki.png?w=%w&h=%h&_c=1725424962",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "1": {
+        "id": 225201,
+        "name": "Вторые блюда",
+        "uri": "/ru/almaty/catalog/cat/225201-vtorye_blyuda",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225201-vtorye_blyuda.jpg?w=%w&h=%h&_c=1731304103",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "2": {
+        "id": 225572,
+        "name": "Салаты, супы",
+        "uri": "/ru/almaty/catalog/cat/225572-salaty_supy",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225572-salaty_supy_humus.png?w=%w&h=%h&_c=1725954431",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "3": {
+        "id": 225577,
+        "name": "Сэндвичи и круассаны",
+        "uri": "/ru/almaty/catalog/cat/225577-sendvichi_i_kruassany",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225577-sendvichi_i_kruassany.png?w=%w&h=%h&_c=1725424990",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "4": {
+        "id": 225303,
+        "name": "Десерты",
+        "uri": "/ru/almaty/catalog/cat/225303-deserty",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225303-torty_pirozhnye_vypechka.png",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225303-torty_pirozhnye_vypechka.png?w=%w&h=%h&_c=1725968807",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "5": {
+        "id": 225495,
+        "name": "Правильное питание",
+        "uri": "/ru/almaty/catalog/cat/225495-pravilnoe_pitanie",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225495-pravilnoe_pitanie.png?w=%w&h=%h&_c=1729505948",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      }
+    }
+  },
+  {
+    "id": 16,
+    "name": "Всё для дома",
+    "uri": "/ru/almaty/catalog/cat/16-vs_dlya_doma",
+    "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/16-vs_dlya_doma.svg",
+    "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/16-vs_dlya_doma.png?w=%w&h=%h&_c=1745580884",
+    "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/16-vse_dlya_doma_pryamougolnaya_png.png",
+    "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/16-vs_dlya_doma_rectangle_png.png?w=%w&h=%h&_c=1745580884",
+    "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/16-vs_dlya_doma_square_svg.svg",
+    "cssClass": null,
+    "children": {
+      "0": {
+        "id": 224494,
+        "name": "Средства для мытья посуды",
+        "uri": "/ru/almaty/catalog/cat/224494-sredstva_dlya_mytya_posudy",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/224494-sredstva_dlya_mytya_posudy.png?w=%w&h=%h&_c=1725873426",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "1": {
+        "id": 224405,
+        "name": "Стирка и уход за бельём",
+        "uri": "/ru/almaty/catalog/cat/224405-stirka_i_uhod_za_bel_m",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/224405-stirka_i_uhod_za_bel_m.png?w=%w&h=%h&_c=1725873461",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "2": {
+        "id": 225190,
+        "name": "Для уборки",
+        "uri": "/ru/almaty/catalog/cat/225190-dlya_uborki",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225190-dlya_uborki.png?w=%w&h=%h&_c=1740636697",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "3": {
+        "id": 224988,
+        "name": "Посуда и товары для кухни",
+        "uri": "/ru/almaty/catalog/cat/224988-posuda_i_tovary_dlya_kuhni",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__224988-posuda_i_tovary_dlya_kuhni.png?w=%w&h=%h&_c=1739791440",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "4": {
+        "id": 225211,
+        "name": "Полезные мелочи",
+        "uri": "/ru/almaty/catalog/cat/225211-poleznye_melochi",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225211-vs_dlya_doma.png?w=%w&h=%h&_c=1733902222",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "5": {
+        "id": 225502,
+        "name": "Для декора",
+        "uri": "/ru/almaty/catalog/cat/225502-dlya_dekora",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225502-dlya_dekora.png?w=%w&h=%h&_c=1740636749",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "6": {
+        "id": 225370,
+        "name": "Для дачи и отдыха на природе",
+        "uri": "/ru/almaty/catalog/cat/225370-dlya_dachi_i_otdyha_na_prirode",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon__225370-dlya_dachi_i_otdyha_na_prirode.png",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225370-dlya_dachi_i_otdyha_na_prirode.png?w=%w&h=%h&_c=1744870276",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "7": {
+        "id": 225119,
+        "name": "Для спорта и активного отдыха",
+        "uri": "/ru/almaty/catalog/cat/225119-dlya_sporta_i_aktivnogo_otdyha",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225119-dlya_sporta_i_aktivnogo_otdyha.png?w=%w&h=%h&_c=1740636854",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      }
+    }
+  },
+  {
+    "id": 224407,
+    "name": "Косметика и средства личной гигиены",
+    "uri": "/ru/almaty/catalog/cat/224407-kosmetika_i_sredstva_lichnoi_gigieny",
+    "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/224407-krasota.svg",
+    "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/224407-krasota.png?w=%w&h=%h&_c=1745580884",
+    "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/224407-krasota_pryamougolnaya_png.png",
+    "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/224407-krasota_rectangle_png.png?w=%w&h=%h&_c=1745580884",
+    "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/224407-krasota_square_svg.svg",
+    "cssClass": null,
+    "children": {
+      "0": {
+        "id": 224492,
+        "name": "Женские гигиенические средства",
+        "uri": "/ru/almaty/catalog/cat/224492-zhenskie_gigienicheskie_sredstva",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/224492-zhenskie_gigienicheskie_sredstva.png?w=%w&h=%h&_c=1725882173",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "1": {
+        "id": 225251,
+        "name": "Макияж",
+        "uri": "/ru/almaty/catalog/cat/225251-makiyazh",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225251-makiyazh.png?w=%w&h=%h&_c=1725882174",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "2": {
+        "id": 224493,
+        "name": "Туалетная бумага и салфетки",
+        "uri": "/ru/almaty/catalog/cat/224493-tualetnaya_bumaga_i_salfetki",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/224493-tualetnaya_bumaga.png?w=%w&h=%h&_c=1725882357",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "3": {
+        "id": 224409,
+        "name": "Уход за волосами",
+        "uri": "/ru/almaty/catalog/cat/224409-uhod_za_volosami",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/224409-uhod_za_volosami.png?w=%w&h=%h&_c=1725882362",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "4": {
+        "id": 224583,
+        "name": "Уход за лицом",
+        "uri": "/ru/almaty/catalog/cat/224583-uhod_za_licom",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/224583-uhod_za_licom.png?w=%w&h=%h&_c=1725882362",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "5": {
+        "id": 224413,
+        "name": "Уход за полостью рта",
+        "uri": "/ru/almaty/catalog/cat/224413-uhod_za_polostyu_rta",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/224413-zubnye_pasty_shetki_opolaskivateli_nit.png?w=%w&h=%h&_c=1726456243",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "6": {
+        "id": 21687,
+        "name": "Уход за телом",
+        "uri": "/ru/almaty/catalog/cat/21687-uhod_za_telom",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/21687-uhod_za_telom.png?w=%w&h=%h&_c=1725882378",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      }
+    }
+  },
+  {
+    "id": 225268,
+    "name": "Фермерская лавка",
+    "uri": "/ru/almaty/catalog/cat/225268-fermerskaya_lavka",
+    "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225268-fermerskaya_lavka.svg",
+    "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225268-fermerskaya_lavka.png?w=%w&h=%h&_c=1745580884",
+    "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225268-fermerskaya_lavka_rectangle_svg.svg",
+    "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225268-fermerskaya_lavka_pryamougolnaya_png.png?w=%w&h=%h&_c=1745580884",
+    "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225268-fermerskaya_lavka_square_svg.svg",
+    "cssClass": null,
+    "children": {
+      "0": {
+        "id": 225286,
+        "name": "Мясо, птица",
+        "uri": "/ru/almaty/catalog/cat/225286-myaso_ptica",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225286-myaso_pticy.jpg?w=%w&h=%h&_c=1726561169",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "1": {
+        "id": 225269,
+        "name": "Молочное, сыры, яйца",
+        "uri": "/ru/almaty/catalog/cat/225269-molochnoe_syry_yaica",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225269-moloko_syr.png?w=%w&h=%h&_c=1727289344",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "2": {
+        "id": 225287,
+        "name": "Бакалея",
+        "uri": "/ru/almaty/catalog/cat/225287-bakaleya",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225287-bakaleya.png?w=%w&h=%h&_c=1654517579",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "3": {
+        "id": 225488,
+        "name": "Деликатесы",
+        "uri": "/ru/almaty/catalog/cat/225488-delikatesy",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225488-delikatesy.jpg?w=%w&h=%h&_c=1724226891",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      }
+    }
+  },
+  {
+    "id": 225183,
+    "name": "Замороженные продукты",
+    "uri": "/ru/almaty/catalog/cat/225183-zamorozhennye_produkty",
+    "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225183-zamorozhennye_produkty.svg",
+    "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225183-zamorozhennye_produkty.png?w=%w&h=%h&_c=1745580884",
+    "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225183-zamorozhennye_produkty_pryamougolnaya_png.png",
+    "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225183-zamorozhennye_produkty_rectangle_png.png?w=%w&h=%h&_c=1745580884",
+    "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225183-zamorozhennye_produkty_square_svg.svg",
+    "cssClass": null,
+    "children": {
+      "0": {
+        "id": 225184,
+        "name": "Полуфабрикаты",
+        "uri": "/ru/almaty/catalog/cat/225184-polufabrikaty",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225184-pelmeni_vareniki_manty.png?w=%w&h=%h&_c=1732094571",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "1": {
+        "id": 225187,
+        "name": "Самса, пирожки, чебуреки",
+        "uri": "/ru/almaty/catalog/cat/225187-samsa_pirozhki_chebureki",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225187-samsa_pirozhki_chebureki.png?w=%w&h=%h&_c=1726613838",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "2": {
+        "id": 225186,
+        "name": "Хлеб и выпечка",
+        "uri": "/ru/almaty/catalog/cat/225186-hleb_i_vypechka",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225186-blinchiki_kruassany_syrniki.png?w=%w&h=%h&_c=1726613854",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "3": {
+        "id": 225252,
+        "name": "Тесто и основа для пиццы",
+        "uri": "/ru/almaty/catalog/cat/225252-testo_i_osnova_dlya_piccy",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225252-testo_zamorozhennoe.png?w=%w&h=%h&_c=1726613892",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "4": {
+        "id": 225188,
+        "name": "Пицца и пироги",
+        "uri": "/ru/almaty/catalog/cat/225188-picca_i_pirogi",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225188-picca.png?w=%w&h=%h&_c=1726613895",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "5": {
+        "id": 225189,
+        "name": "Фрукты и овощи замороженные",
+        "uri": "/ru/almaty/catalog/cat/225189-frukty_i_ovoshi_zamorozhennye",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225189-frukty_i_ovoshi_zamorozhennye.png?w=%w&h=%h&_c=1726613895",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "6": {
+        "id": 225209,
+        "name": "Мороженое",
+        "uri": "/ru/almaty/catalog/cat/225209-morozhenoe",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225209-morozhenoe.png?w=%w&h=%h&_c=1726613895",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      }
+    }
+  },
+  {
+    "id": 224645,
+    "name": "Диетические продукты",
+    "uri": "/ru/almaty/catalog/cat/224645-dieticheskie_produkty",
+    "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon__224645-zdorovoe_pitanie.svg",
+    "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__224645-zdorovoe_pitanie.svg?w=%w&h=%h&_c=1745580884",
+    "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_rect__224645-gorizontalnye_ikonki-03_svg.svg",
+    "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_rect_png__224645-zdorove_png.png?w=%w&h=%h&_c=1745580884",
+    "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_square__224645-gorizontalnye_ikonki_svg.svg",
+    "cssClass": null,
+    "children": {
+      "0": {
+        "id": 224992,
+        "name": "Продукты без глютена",
+        "uri": "/ru/almaty/catalog/cat/224992-produkty_bez_glyutena",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__224992-produkty_bez_glyutena.png?w=%w&h=%h&_c=1731438689",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "1": {
+        "id": 224652,
+        "name": "Продукты без белого сахара",
+        "uri": "/ru/almaty/catalog/cat/224652-produkty_bez_belogo_sahara",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__224652-produkty_bez_sahara.png?w=%w&h=%h&_c=1731653662",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "2": {
+        "id": 224663,
+        "name": "Веган продукты",
+        "uri": "/ru/almaty/catalog/cat/224663-vegan_produkty",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__224663-vegan_produkty.png?w=%w&h=%h&_c=1731438697",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "3": {
+        "id": 224688,
+        "name": "Цельнозерновые продукты",
+        "uri": "/ru/almaty/catalog/cat/224688-celnozernovye_produkty",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__224688-celnozernovye_produkty.png?w=%w&h=%h&_c=1731438697",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "4": {
+        "id": 225613,
+        "name": "Полезные напитки",
+        "uri": "/ru/almaty/catalog/cat/225613-poleznye_napitki",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225613-poleznye_napitki.png?w=%w&h=%h&_c=1731438697",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "5": {
+        "id": 224686,
+        "name": "ПП-соусы, масла и специи",
+        "uri": "/ru/almaty/catalog/cat/224686-pp-sousy_masla_i_specii",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__224686-pp-sousy_masla_i_specii.webp?w=%w&h=%h&_c=1731481420",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "6": {
+        "id": 225616,
+        "name": "Суперфуды",
+        "uri": "/ru/almaty/catalog/cat/225616-superfudy",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225616-superfudy.png?w=%w&h=%h&_c=1731438697",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "7": {
+        "id": 225641,
+        "name": "Протеин и клетчатка",
+        "uri": "/ru/almaty/catalog/cat/225641-protein_i_kletchatka",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225641-protein_i_kletchatka.png?w=%w&h=%h&_c=1740540349",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "8": {
+        "id": 225182,
+        "name": "Спортивное питание",
+        "uri": "/ru/almaty/catalog/cat/225182-sportivnoe_pitanie",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225182-sportivnoe_pitanie.png?w=%w&h=%h&_c=1731438697",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      }
+    }
+  },
+  {
+    "id": 224938,
+    "name": "Органические товары",
+    "uri": "/ru/almaty/catalog/cat/224938-organicheskie_tovary",
+    "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon__224938-organicheskie_tovary.svg",
+    "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__224938-organicheskie_tovary.webp?w=%w&h=%h&_c=1745580884",
+    "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_rect__224938-225244-rastitelnye_produkty_pryamougolnaya_png_webp.webp",
+    "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_rect_png__224938-225244-rastitelnye_produkty_rectangle_png_webp.webp?w=%w&h=%h&_c=1745580884",
+    "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_square__224938-225244-rastitelnye_produkty_square_svg_svg.svg",
+    "cssClass": null,
+    "children": {
+      "0": {
+        "id": 224653,
+        "name": "Сладости и перекусы",
+        "uri": "/ru/almaty/catalog/cat/224653-sladosti_i_perekusy",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__224653-sladosti.png?w=%w&h=%h&_c=1729761739",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "1": {
+        "id": 224646,
+        "name": "Мясо и полуфабрикаты",
+        "uri": "/ru/almaty/catalog/cat/224646-myaso_i_polufabrikaty",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__224646-myaso_i_polufabrikaty.png?w=%w&h=%h&_c=1729762799",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "2": {
+        "id": 224944,
+        "name": "Бакалея органическая",
+        "uri": "/ru/almaty/catalog/cat/224944-bakaleya_organicheskaya",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__224944-bakaleya.png?w=%w&h=%h&_c=1731425495",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "3": {
+        "id": 224951,
+        "name": "Напитки",
+        "uri": "/ru/almaty/catalog/cat/224951-napitki",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__224951-napitki.png?w=%w&h=%h&_c=1729761739",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "4": {
+        "id": 225645,
+        "name": "Овощи, орехи, сухофрукты",
+        "uri": "/ru/almaty/catalog/cat/225645-ovoshi_orehi_suhofrukty",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225645-ovoshi_i_frukty.png?w=%w&h=%h&_c=1731425521",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "5": {
+        "id": 225659,
+        "name": "Бытовая НЕхимия",
+        "uri": "/ru/almaty/catalog/cat/225659-bytovaya_nehimiya",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225659-bytovaya_nehimiya.png?w=%w&h=%h&_c=1740637779",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "6": {
+        "id": 225670,
+        "name": "Косметика и уход",
+        "uri": "/ru/almaty/catalog/cat/225670-kosmetika_i_uhod",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225670-kosmetika_i_uhod.png?w=%w&h=%h&_c=1729761739",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "7": {
+        "id": 224945,
+        "name": "Декоративная косметика",
+        "uri": "/ru/almaty/catalog/cat/224945-dekorativnaya_kosmetika",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__224945-dekorativnaya_kosmetika.png?w=%w&h=%h&_c=1729761742",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "8": {
+        "id": 225693,
+        "name": "Товары для детей",
+        "uri": "/ru/almaty/catalog/cat/225693-tovary_dlya_detei",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225693-tovary_dlya_detei.png?w=%w&h=%h&_c=1729761742",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      }
+    }
+  },
+  {
+    "id": 225166,
+    "name": "Сладости",
+    "uri": "/ru/almaty/catalog/cat/225166-sladosti",
+    "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225166-sladosti.svg",
+    "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225166-sladosti.png?w=%w&h=%h&_c=1745580884",
+    "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225166-sladosti_pryamougolnaya_png.png",
+    "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225166-sladosti_rectangle_png.png?w=%w&h=%h&_c=1745580884",
+    "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225166-sladosti_square_svg.svg",
+    "cssClass": null,
+    "children": {
+      "0": {
+        "id": 225042,
+        "name": "Печенье, вафли, пряники",
+        "uri": "/ru/almaty/catalog/cat/225042-pechene_vafli_pryaniki",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225042-pechene_vafli_torty.png?w=%w&h=%h&_c=1726612625",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "1": {
+        "id": 225247,
+        "name": "Шоколад, батончики, паста",
+        "uri": "/ru/almaty/catalog/cat/225247-shokolad_batonchiki_pasta",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225247-shokolad_batonchiki_pasta.png?w=%w&h=%h&_c=1740637691",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "2": {
+        "id": 225041,
+        "name": "Конфеты, зефир, мармелад",
+        "uri": "/ru/almaty/catalog/cat/225041-konfety_zefir_marmelad",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225041-konfety.png?w=%w&h=%h&_c=1740637656",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "3": {
+        "id": 225248,
+        "name": "Варенье, джемы, сиропы",
+        "uri": "/ru/almaty/catalog/cat/225248-varene_dzhemy_siropy",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225248-varene_dzhemy_siropy.png?w=%w&h=%h&_c=1740637868",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "4": {
+        "id": 224601,
+        "name": "Мед",
+        "uri": "/ru/almaty/catalog/cat/224601-med",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/224601-m_d.png?w=%w&h=%h&_c=1728452389",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      }
+    }
+  },
+  {
+    "id": 19,
+    "name": "Для детей и их родителей",
+    "uri": "/ru/almaty/catalog/cat/19-dlya_detei_i_ih_roditelei",
+    "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/19-detyam.svg",
+    "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/19-detyam.png?w=%w&h=%h&_c=1745580884",
+    "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/19-detyam_pryamougolnaya_png.png",
+    "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/19-detyam_rectangle_png.png?w=%w&h=%h&_c=1745580884",
+    "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/19-detyam_square_svg.svg",
+    "cssClass": null,
+    "children": {
+      "0": {
+        "id": 224478,
+        "name": "Детское питание и смеси",
+        "uri": "/ru/almaty/catalog/cat/224478-detskoe_pitanie_i_smesi",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/224478-detskoe_pitanie_i_smesi.png?w=%w&h=%h&_c=1725880061",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "1": {
+        "id": 224624,
+        "name": "Аксессуары для кормления",
+        "uri": "/ru/almaty/catalog/cat/224624-aksessuary_dlya_kormleniya",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/224624-aksessuary_dlya_kormleniya.png?w=%w&h=%h&_c=1740637147",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "2": {
+        "id": 25414,
+        "name": "Подгузники и гигиена",
+        "uri": "/ru/almaty/catalog/cat/25414-podguzniki_i_gigiena",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/25414-podguzniki_i_gigiena.png?w=%w&h=%h&_c=1740637057",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "3": {
+        "id": 224620,
+        "name": "Игрушки",
+        "uri": "/ru/almaty/catalog/cat/224620-igrushki",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/224620-igrushki.png?w=%w&h=%h&_c=1743674792",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "4": {
+        "id": 225733,
+        "name": "Досуг, книги",
+        "uri": "/ru/almaty/catalog/cat/225733-dosug_knigi",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225733-dosug_knigi.png?w=%w&h=%h&_c=1743674792",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "5": {
+        "id": 21969,
+        "name": "Для школы",
+        "uri": "/ru/almaty/catalog/cat/21969-dlya_shkoly",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/21969-dlya_shkoly.png?w=%w&h=%h&_c=1743674792",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      }
+    }
+  },
+  {
+    "id": 225167,
+    "name": "Колбасы и деликатесы",
+    "uri": "/ru/almaty/catalog/cat/225167-kolbasy_i_delikatesy",
+    "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225167-kolbasy.svg",
+    "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225167-kolbasy.png?w=%w&h=%h&_c=1745580884",
+    "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225167-kolbasy_pryamougolnaya_png.png",
+    "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225167-kolbasy_rectangle_png.png?w=%w&h=%h&_c=1745580884",
+    "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225167-kolbasy_square_svg.svg",
+    "cssClass": null,
+    "children": {
+      "0": {
+        "id": 19855,
+        "name": "Колбасы",
+        "uri": "/ru/almaty/catalog/cat/19855-kolbasy",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/19855-kolbasy_delikatesy.png?w=%w&h=%h&_c=1740637404",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "1": {
+        "id": 225180,
+        "name": "Сосиски, сардельки",
+        "uri": "/ru/almaty/catalog/cat/225180-sosiski_sardelki",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225180-sosiski_sardelki.png?w=%w&h=%h&_c=1740637455",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "2": {
+        "id": 225451,
+        "name": "Мясные деликатесы",
+        "uri": "/ru/almaty/catalog/cat/225451-myasnye_delikatesy",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225451-myasnye_delikatesy.jpg?w=%w&h=%h&_c=1724226922",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      }
+    }
+  },
+  {
+    "id": 225602,
+    "name": "Орехи, сухофрукты и снеки",
+    "uri": "/ru/almaty/catalog/cat/225602-orehi_suhofrukty_i_sneki",
+    "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon__225602-orehi_i_sneki.svg",
+    "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225602-orehi_i_sneki.svg?w=%w&h=%h&_c=1745580884",
+    "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_rect__225602-orehi_pryamougolnaya_svg.svg",
+    "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_rect_png__225602-orehi-pryamougolnaya_png.png?w=%w&h=%h&_c=1745580884",
+    "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_square__225602-orehi_kvadratnaya_svg.svg",
+    "cssClass": null,
+    "children": {
+      "0": {
+        "id": 225304,
+        "name": "Орехи и сухофрукты",
+        "uri": "/ru/almaty/catalog/cat/225304-orehi_i_suhofrukty",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon__225304-orehi_i_suhofrukty.png",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225304-orehi_i_suhofrukty.png?w=%w&h=%h&_c=1725965814",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "1": {
+        "id": 225604,
+        "name": "Чипсы",
+        "uri": "/ru/almaty/catalog/cat/225604-chipsy",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225604-chipsy.png?w=%w&h=%h&_c=1740637608",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "2": {
+        "id": 225605,
+        "name": "Сухарики и снеки",
+        "uri": "/ru/almaty/catalog/cat/225605-suhariki_i_sneki",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225605-suhariki_i_sneki.png?w=%w&h=%h&_c=1726651238",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      }
+    }
+  },
+  {
+    "id": 20,
+    "name": "Zoo Магазин",
+    "uri": "/ru/almaty/catalog/cat/20-zoo_magazin",
+    "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/20-zoo_magazin.svg",
+    "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/20-zoo_magazin.png?w=%w&h=%h&_c=1745164176",
+    "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/20-zoo_magazin_pryamougolnaya_png.png",
+    "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/20-zoo_magazin_rectangle_png.png?w=%w&h=%h&_c=1745164176",
+    "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/20-zoo_magazin_square_svg.svg",
+    "cssClass": null,
+    "children": {
+      "0": {
+        "id": 225036,
+        "name": "Для кошек",
+        "uri": "/ru/almaty/catalog/cat/225036-dlya_koshek",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225036-dlya_koshek.png?w=%w&h=%h&_c=1741847907",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "1": {
+        "id": 202170,
+        "name": "Для собак",
+        "uri": "/ru/almaty/catalog/cat/202170-dlya_sobak",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/202170-dlya_sobak.png?w=%w&h=%h&_c=1741847910",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "2": {
+        "id": 225493,
+        "name": "Для рыб",
+        "uri": "/ru/almaty/catalog/cat/225493-dlya_ryb",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225493-dlya_ryb.png?w=%w&h=%h&_c=1741848001",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "3": {
+        "id": 225411,
+        "name": "Для грызунов",
+        "uri": "/ru/almaty/catalog/cat/225411-dlya_gryzunov",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225411-dlya_gryzunov.png",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225411-dlya_gryzunov.png?w=%w&h=%h&_c=1741848001",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "4": {
+        "id": 225282,
+        "name": "Для птиц",
+        "uri": "/ru/almaty/catalog/cat/225282-dlya_ptic",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225282-dlya_ptic.png",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225282-dlya_ptic.png?w=%w&h=%h&_c=1741848001",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "5": {
+        "id": 202652,
+        "name": "Гигиена и уход за животными",
+        "uri": "/ru/almaty/catalog/cat/202652-gigiena_i_uhod_za_zhivotnymi",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/202652-gigiena_i_uhod_za_zhivotnymi.jpg?w=%w&h=%h&_c=1741848001",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "6": {
+        "id": 225373,
+        "name": "Ветаптека",
+        "uri": "/ru/almaty/catalog/cat/225373-vetapteka",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225373-vetapteka.png",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225373-vetapteka.png?w=%w&h=%h&_c=1741847921",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      }
+    }
+  },
+  {
+    "id": 225606,
+    "name": "Импортные товары",
+    "uri": "/ru/almaty/catalog/cat/225606-importnye_tovary",
+    "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon__225606-importnye_tovary.svg",
+    "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225606-importnye_tovary.svg?w=%w&h=%h&_c=1745164176",
+    "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_rect__225606-gorizontalnye_ikonki_1_svg.svg",
+    "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_rect_png__225606-montazhnaya_oblast_3_1_png.png?w=%w&h=%h&_c=1745164176",
+    "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_square__225606-gorizontalnye_ikonki_1_svg.svg",
+    "cssClass": null,
+    "children": {
+      "0": {
+        "id": 225607,
+        "name": "Бакалея",
+        "uri": "/ru/almaty/catalog/cat/225607-bakaleya",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225607-bakaleya.png?w=%w&h=%h&_c=1730396937",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "1": {
+        "id": 225346,
+        "name": "Готовые завтраки",
+        "uri": "/ru/almaty/catalog/cat/225346-gotovye_zavtraki",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225346-gotovye_zavtraki.png?w=%w&h=%h&_c=1730403090",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "2": {
+        "id": 225096,
+        "name": "Сыры и деликатесы импортные",
+        "uri": "/ru/almaty/catalog/cat/225096-syry_i_delikatesy_importnye",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225096-syry_i_delikatesy_importnye.png?w=%w&h=%h&_c=1733891025",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "3": {
+        "id": 225347,
+        "name": "Орехи и снеки",
+        "uri": "/ru/almaty/catalog/cat/225347-orehi_i_sneki",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225347-orehi_i_sneki.png?w=%w&h=%h&_c=1733891025",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "4": {
+        "id": 225348,
+        "name": "Сладости",
+        "uri": "/ru/almaty/catalog/cat/225348-sladosti",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225348-sladosti.png?w=%w&h=%h&_c=1733891025",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "5": {
+        "id": 224946,
+        "name": "Косметика и уход",
+        "uri": "/ru/almaty/catalog/cat/224946-kosmetika_i_uhod",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__224946-kosmetika_i_uhod.png?w=%w&h=%h&_c=1733891025",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "6": {
+        "id": 224947,
+        "name": "Всё для дома",
+        "uri": "/ru/almaty/catalog/cat/224947-vs_dlya_doma",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__224947-vs_dlya_doma.png?w=%w&h=%h&_c=1733891025",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      }
+    }
+  },
+  {
+    "id": 225504,
+    "name": "Аптека",
+    "uri": "/ru/almaty/catalog/cat/225504-apteka",
+    "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon__225504-apteka.svg",
+    "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225504-apteka.webp?w=%w&h=%h&_c=1745164176",
+    "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_rect__225504-225075-zdorove_pryamougolnaya_png_webp.webp",
+    "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_rect_png__225504-225075-apteka_rectangle_png_webp.webp?w=%w&h=%h&_c=1745164176",
+    "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_square__225504-225075-apteka_square_svg_svg.svg",
+    "cssClass": null,
+    "children": {
+      "0": {
+        "id": 225505,
+        "name": "Лекарственные средства",
+        "uri": "/ru/almaty/catalog/cat/225505-lekarstvennye_sredstva",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225505-lekarstvennye_sredstva.png?w=%w&h=%h&_c=1726310074",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "1": {
+        "id": 225537,
+        "name": "Медицинские изделия",
+        "uri": "/ru/almaty/catalog/cat/225537-medicinskie_izdeliya",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225537-medicinskie_izdeliya_i_tehnika.jpg?w=%w&h=%h&_c=1740656093",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "2": {
+        "id": 224425,
+        "name": "Антисептики и мази",
+        "uri": "/ru/almaty/catalog/cat/224425-antiseptiki_i_mazi",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__224425-antiseptik_mazi.jpg?w=%w&h=%h&_c=1740656093",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "3": {
+        "id": 225071,
+        "name": "Витамины и БАДы",
+        "uri": "/ru/almaty/catalog/cat/225071-vitaminy_i_bady",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/icon_png__225071-vitaminy_vitaminnye_kompleksy.png?w=%w&h=%h&_c=1740470379",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "4": {
+        "id": 225149,
+        "name": "Травы, чаи, настойки",
+        "uri": "/ru/almaty/catalog/cat/225149-travy_chai_nastoiki",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225149-travyanye_sbory.png?w=%w&h=%h&_c=1740470379",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "5": {
+        "id": 225310,
+        "name": "Товары для взрослых",
+        "uri": "/ru/almaty/catalog/cat/225310-tovary_dlya_vzroslyh",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225310-tovary_dlya_vzroslyh.png",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225310-tovary_dlya_vzroslyh.png?w=%w&h=%h&_c=1740470379",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      }
+    }
+  },
+  {
+    "id": 225063,
+    "name": "К празднику",
+    "uri": "/ru/almaty/catalog/cat/225063-k_prazdniku",
+    "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225063-k_prazdniku.svg",
+    "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225063-k_prazdniku.png?w=%w&h=%h&_c=1745164176",
+    "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225063-k_prazdniku_pryamougolnaya_png.png",
+    "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225063-k_prazdniku_rectangle_png.png?w=%w&h=%h&_c=1745164176",
+    "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225063-k_prazdniku_square_svg.svg",
+    "cssClass": null,
+    "children": {
+      "0": {
+        "id": 225432,
+        "name": "Подарки, товары для праздников",
+        "uri": "/ru/almaty/catalog/cat/225432-podarki_tovary_dlya_prazdnikov",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225432-podarki_tovary_dlya_prazdnikov.png",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225432-podarki_tovary_dlya_prazdnikov.png?w=%w&h=%h&_c=1725940443",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "1": {
+        "id": 225424,
+        "name": "Украшения для праздника",
+        "uri": "/ru/almaty/catalog/cat/225424-ukrasheniya_dlya_prazdnika",
+        "iconSvg": null,
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225424-ukrasheniya_dlya_prazdnika.jpg?w=%w&h=%h&_c=1725940448",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      },
+      "2": {
+        "id": 225482,
+        "name": "Для Пасхи",
+        "uri": "/ru/almaty/catalog/cat/225482-dlya_pashi",
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225482-dlya_pashi.png",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225482-dlya_pashi.png?w=%w&h=%h&_c=1744803687",
+        "iconRect": null,
+        "iconRectPng": null,
+        "iconRectSquare": null,
+        "cssClass": null
+      }
+    }
+  }
+]
