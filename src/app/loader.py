@@ -11,7 +11,7 @@ from requests.adapters import HTTPAdapter
 from sqlalchemy import desc, select
 from urllib3.util.retry import Retry
 
-from app.config.settings import settings
+from app.config import settings
 from app.db import Session
 from app.db.models import Category, Feature, Product, ProductCategory
 from app.schemas.categories import CategorySchema
@@ -164,7 +164,6 @@ def import_product(s: Session, ps: ProductSchema) -> Product:
     else:
         log.debug("updating %s", ps)
         p.features.extend([feat for feat in feats if feat not in p.features])
-
         p.name = ps.name
         p.producer_country = ps.producer_country
         p.brand_name = ps.brand_name
@@ -194,6 +193,8 @@ def import_product(s: Session, ps: ProductSchema) -> Product:
         p.information = ps.information
         p.rating_value = ps.rating.value if ps.rating else None
         p.rating_reviews = ps.rating.reviews if ps.rating else None
+        # mark product as updated
+        p.updated_at = datetime.now(UTC)
     s.add(p)
 
     # add category & position in it
@@ -276,7 +277,11 @@ def load_categories() -> None:
 def load_products() -> None:
     client = login()
     with Session() as s:
-        cats: list[Category] = s.scalars(select(Category).order_by(desc(Category.updated_at))).all()
+        # import products only for leaf categories,
+        # because it seems that branch categories don't have any products by themselves
+        cats: list[Category] = s.scalars(
+            select(Category).where(~Category.children.any()).order_by(desc(Category.updated_at))
+        ).all()
         log.info("%d categories selected for an update", len(cats))
         for cat in cats:
             time.sleep(2)

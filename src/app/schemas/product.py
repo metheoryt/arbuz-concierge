@@ -6,7 +6,6 @@ from .base import html_to_markdown, parse_comma_float, to_camel
 
 
 class ProductCharacteristic(BaseModel):
-    model_config = ConfigDict(alias_generator=to_camel, populate_by_name=True, extra="allow")
     id: int
     name: str
 

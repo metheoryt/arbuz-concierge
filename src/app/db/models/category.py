@@ -40,5 +40,8 @@ class Category(Base):
         back_populates="categories",
     )
 
-    def __str__(self):
-        return f"<Category {self.name!r}{f' < {self.parent.name}' if self.parent_id else ''}>"
+    def text_embedding(self):
+        return f"{self.parent.text_embedding() + ' > ' if self.parent_id else ''}{self.name}"
+
+    def __repr__(self):
+        return f"<Category name={self.name!r} parent_id={self.parent_id} updated_at={self.updated_at}>"

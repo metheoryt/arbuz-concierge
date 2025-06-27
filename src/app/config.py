@@ -5,13 +5,15 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
 class Settings(BaseSettings):
+    model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8", extra="allow")
+
     base_dir: Path = Path(__file__).parent.parent  # app/
 
-    # configurable
-    database_url: PostgresDsn = PostgresDsn("postgresql+psycopg://postgres:postgres@localhost/postgres")
-    arbuz_api_base: HttpUrl = HttpUrl("https://arbuz.kz/api/v1/")
+    postgres_url: PostgresDsn
+    openai_api_key: str
 
-    model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8")
+    # optionals
+    arbuz_api_base: HttpUrl = HttpUrl("https://arbuz.kz/api/v1/")
 
     def api(self, path: str):
         return str(self.arbuz_api_base) + path

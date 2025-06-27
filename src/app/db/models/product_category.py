@@ -16,6 +16,8 @@ class ProductCategory(Base):
     product_id: Mapped[int] = mapped_column(ForeignKey("product.id"), primary_key=True)
     category_id: Mapped[int] = mapped_column(ForeignKey("category.id"), primary_key=True)
     product: Mapped["Product"] = relationship(back_populates="product_categories", foreign_keys=[product_id])
-    category: Mapped["Category"] = relationship(back_populates="product_categories", foreign_keys=[category_id])
+    category: Mapped["Category"] = relationship(
+        back_populates="product_categories", foreign_keys=[category_id], lazy="joined"
+    )
 
     sort_pos: Mapped[int]
