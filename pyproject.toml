@@ -3,10 +3,8 @@ name = "ai-cart-arbuz"
 version = "0.1.0"
 description = "A smart cart assistant for Arbuz.kz"
 authors = ["Maxim Romanyuk <metheoryt@gmail.com>"]
-requires-python = ">=3.12"
-packages = [
-    { include = "app", from = "src" }
-]
+requires-python = ">=3.13"
+packages = [{ include = "app", from = "src" }]
 dependencies = [
     "alembic>=1.15.2",
     "asyncpg>=0.30.0",
@@ -24,10 +22,7 @@ dependencies = [
 ]
 
 [dependency-groups]
-dev = [
-    "pre-commit>=4.2.0",
-    "ruff>=0.11.8",
-]
+dev = ["pre-commit>=4.2.0", "ruff>=0.11.8"]
 
 ########
 # ruff linter/formatter
@@ -35,39 +30,35 @@ dev = [
 # $ ruff check --show-settings
 # to see full config
 [tool.ruff]
-exclude = [
-    ".git",
-    "__pycache__",
-    ".venv",
-]
+exclude = [".git", "__pycache__", ".venv"]
 line-length = 120
 indent-width = 4
-target-version = "py312"
+target-version = "py313"
 
 [tool.ruff.lint]
 # Uncomment additional rules when ready to fix
 select = [
-    "I",    # Import sorting (isort-like)
-    "F",    # Pyflakes rules
-    "E",    # PEP8 rules
-    "W",    # flake8 warnings
-#    "ANN",  # Annotations (type hints)
-    "ARG",  # Argument-related checks
-    "B",    # Bugbear (antipatterns) (optional but useful)
-    "C",    # Complexity checks
-    "C4",   # Non-optimal list comprehensions
-    "N",    # Naming conventions
-    "UP",   # Old style syntax
-#    "PL",   # Potentially problematic patterns
-    "PT",   # Python 3-specific patterns
-    "SIM"   # Simplification suggestions
+    "I", # Import sorting (isort-like)
+    "F", # Pyflakes rules
+    "E", # PEP8 rules
+    "W", # flake8 warnings
+    #    "ANN",  # Annotations (type hints)
+    "ARG", # Argument-related checks
+    "B",   # Bugbear (antipatterns) (optional but useful)
+    "C",   # Complexity checks
+    "C4",  # Non-optimal list comprehensions
+    "N",   # Naming conventions
+    "UP",  # Old style syntax
+    #    "PL",   # Potentially problematic patterns
+    "PT",  # Python 3-specific patterns
+    "SIM", # Simplification suggestions
 ]
 
 # Remove when ready to fix
 ignore = [
-#    "E501",  # Line too long
-#    "E731",  # Do not assign a `lambda` expression, use a `def`
-#    "F841",  # Local variable is assigned to but never used
+    #    "E501",  # Line too long
+    #    "E731",  # Do not assign a `lambda` expression, use a `def`
+    #    "F841",  # Local variable is assigned to but never used
 ]
 # Allow fix for all enabled rules (when `--fix`) is provided.
 fixable = ["ALL"]
@@ -79,7 +70,7 @@ combine-as-imports = true
 
 # Optional: enable docstring linting
 [tool.ruff.lint.pydocstyle]
-convention = "numpy"  # or "google", "pep257" based on your style
+convention = "numpy" # or "google", "pep257" based on your style
 
 [tool.ruff.format]
 # Like Black, use double quotes for strings.
