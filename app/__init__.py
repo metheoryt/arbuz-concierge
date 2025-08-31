@@ -1,16 +1,13 @@
-import asyncio
+# import asyncio
 import logging
-from asyncio import WindowsSelectorEventLoopPolicy
 
+# from asyncio import WindowsSelectorEventLoopPolicy
 from dotenv import load_dotenv
-
-from app.db import engine
-from app.db.models import Base
 
 load_dotenv()
 
 # windows hack for marvin
-asyncio.set_event_loop_policy(WindowsSelectorEventLoopPolicy())
+# asyncio.set_event_loop_policy(WindowsSelectorEventLoopPolicy())
 
 
 LOG_FORMAT = "[%(asctime)s] [%(levelname)s] %(name)s: %(message)s"
@@ -22,11 +19,3 @@ logging.basicConfig(
     format=LOG_FORMAT,
     datefmt=DATE_FORMAT,
 )
-
-
-def setup():
-    Base.metadata.create_all(engine)
-
-
-def teardown():
-    Base.metadata.drop_all(engine)

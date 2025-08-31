@@ -49,6 +49,7 @@ class ProductSchema(BaseModel):
     brand_name: str | None
     catalog_id: int
     characteristics: list[ProductCharacteristic]
+    description: str
     discount: str
     image: HttpUrl | None
     information: str

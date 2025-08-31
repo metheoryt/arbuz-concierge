@@ -1,10 +1,9 @@
 [project]
-name = "ai-cart-arbuz"
+name = "arbuz-concierge"
 version = "0.1.0"
-description = "A smart cart assistant for Arbuz.kz"
-authors = ["Maxim Romanyuk <metheoryt@gmail.com>"]
+description = "An AI concierge for Arbuz.kz"
+authors = [{ name = "Maxim Romanyuk", email = "metheoryt@gmail.com" }]
 requires-python = ">=3.13"
-packages = [{ include = "app", from = "src" }]
 dependencies = [
     "alembic>=1.15.2",
     "asyncpg>=0.30.0",

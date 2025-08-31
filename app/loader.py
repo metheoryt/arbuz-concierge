@@ -9,6 +9,7 @@ import requests
 from requests import HTTPError, Session as HTTPSession
 from requests.adapters import HTTPAdapter
 from sqlalchemy import desc, select
+from sqlalchemy.orm import Session as SessionClass
 from urllib3.util.retry import Retry
 
 from app.config import settings
@@ -39,7 +40,10 @@ def login():
 
     log.info("logging in")
     rs = s.get("https://arbuz.kz")
-    platform_conf_raw = re.search(r"window\.platformConfiguration = (.*)?;", rs.text).groups()[0]
+    platform_conf_raw_re = re.search(r"window\.platformConfiguration = (.*)?;", rs.text)
+    if not platform_conf_raw_re:
+        raise ValueError("Failed to retrieve platform configuration")
+    platform_conf_raw = platform_conf_raw_re.groups()[0]
     platform_conf = json.loads(platform_conf_raw)
     rs = s.post(
         settings.api("auth/token"),
@@ -49,13 +53,17 @@ def login():
         },
     )
     rs.raise_for_status()
+
     return s
 
 
 @cache
 def get_base_categories() -> dict[int, CategorySchema]:
     rs = requests.get("https://arbuz.kz/")
-    catalog_tree_raw = re.search(r"window\.siteCatalogTree = Object\.values\((.*)?\);", rs.text).groups()[0]
+    catalog_tree_raw_re = re.search(r"window\.siteCatalogTree = Object\.values\((.*)?\);", rs.text)
+    if not catalog_tree_raw_re:
+        raise ValueError("Failed to retrieve catalog tree")
+    catalog_tree_raw = catalog_tree_raw_re.groups()[0]
     catalog_tree = json.loads(catalog_tree_raw)  # {"0": {...}, "1": {...}}
     cats = {}
     for category in catalog_tree.values():
@@ -92,7 +100,7 @@ def get_catalog_products(s: HTTPSession, cat: Category, limit: int = 40, page: i
     return pss
 
 
-def import_category(s: Session, cs: CategorySchema) -> Category:
+def import_category(s: SessionClass, cs: CategorySchema) -> Category:
     parent_cat = None
     if cs.parent_id:
         parent_cs = get_base_categories()[cs.parent_id]
@@ -112,7 +120,7 @@ def import_category(s: Session, cs: CategorySchema) -> Category:
     return cat
 
 
-def import_feature(s: Session, pc: ProductCharacteristic) -> Feature:
+def import_feature(s: SessionClass, pc: ProductCharacteristic) -> Feature:
     feat = s.scalar(select(Feature).where(Feature.id == pc.id))
     if not feat:
         feat = Feature(id=pc.id, name=pc.name)
@@ -122,7 +130,7 @@ def import_feature(s: Session, pc: ProductCharacteristic) -> Feature:
     return feat
 
 
-def import_product(s: Session, ps: ProductSchema) -> Product:
+def import_product(s: SessionClass, ps: ProductSchema) -> Product:
     feats = [import_feature(s, pc) for pc in ps.characteristics]
     p: Product = s.scalar(select(Product).where(Product.id == ps.id))
 
@@ -141,7 +149,7 @@ def import_product(s: Session, ps: ProductSchema) -> Product:
             weight_min=ps.weight_min,
             weight_max=ps.weight_max,
             weight=ps.weight,
-            piece_weight_min=ps.piece_weight_min,
+            piece_weight_min=ps.de,
             piece_weight_max=ps.piece_weight_max,
             sell_by_piece=ps.sell_by_piece,
             quantity_min_step=ps.quantity_min_step,
@@ -220,7 +228,7 @@ def import_products(pss: list[ProductSchema]) -> list[Product]:
     return products
 
 
-def import_category_products(client: HTTPSession, cat: Category, s: Session):
+def import_category_products(client: HTTPSession, cat: Category, s: SessionClass):
     log.info("importing products of %r", cat.name)
     page = 1
     while True:
@@ -245,7 +253,7 @@ def import_category_products(client: HTTPSession, cat: Category, s: Session):
     s.commit()
 
 
-def load_category(cs: CategorySchema, client: HTTPSession, s: Session):
+def load_category(cs: CategorySchema, client: HTTPSession, s: SessionClass):
     import_category(s, cs)
     time.sleep(2)
 
