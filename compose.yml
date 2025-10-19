@@ -1,16 +1,16 @@
 services:
-  db:
-    image: tensorchord/vchord-postgres:pg17-v0.3.0
-    environment:
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: postgres
-      POSTGRES_DB: postgres
-    ports:
-      - "5432:5432"
-    volumes:
-      - db_data:/var/lib/postgresql/data
-      - ./initdb:/docker-entrypoint-initdb.d
-    restart: always
+    db:
+        image: tensorchord/vchord-postgres:pg18-v0.5.3
+        environment:
+            POSTGRES_USER: postgres
+            POSTGRES_PASSWORD: postgres
+            POSTGRES_DB: postgres
+        ports:
+            - "5432:5432"
+        volumes:
+            - db_data:/var/lib/postgresql/data
+            - ./initdb:/docker-entrypoint-initdb.d
+        restart: always
 
 volumes:
-  db_data:
+    db_data:
