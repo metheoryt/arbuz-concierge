@@ -294,3 +294,8 @@ def load_products() -> None:
         for cat in cats:
             time.sleep(2)
             import_category_products(client, cat, s)
+
+
+def load_all():
+    load_categories()
+    load_products()
