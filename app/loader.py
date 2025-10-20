@@ -135,7 +135,7 @@ def import_product(s: SessionClass, ps: ProductSchema) -> Product:
     p: Product = s.scalar(select(Product).where(Product.id == ps.id))
 
     if not p:
-        log.info("creating %s", ps)
+        log.info("creating %s", ps.name)
         p = Product(
             id=ps.id,
             name=ps.name,
@@ -149,7 +149,7 @@ def import_product(s: SessionClass, ps: ProductSchema) -> Product:
             weight_min=ps.weight_min,
             weight_max=ps.weight_max,
             weight=ps.weight,
-            piece_weight_min=ps.de,
+            piece_weight_min=ps.piece_weight_min,
             piece_weight_max=ps.piece_weight_max,
             sell_by_piece=ps.sell_by_piece,
             quantity_min_step=ps.quantity_min_step,
@@ -170,7 +170,7 @@ def import_product(s: SessionClass, ps: ProductSchema) -> Product:
             rating_reviews=ps.rating.reviews if ps.rating else None,
         )
     else:
-        log.debug("updating %s", ps)
+        log.debug("updating %s", ps.name)
         p.features.extend([feat for feat in feats if feat not in p.features])
         p.name = ps.name
         p.producer_country = ps.producer_country
