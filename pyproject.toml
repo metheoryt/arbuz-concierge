@@ -3,7 +3,7 @@ name = "arbuz-concierge"
 version = "0.1.0"
 description = "An AI concierge for Arbuz.kz"
 authors = [{ name = "Maxim Romanyuk", email = "metheoryt@gmail.com" }]
-requires-python = ">=3.13"
+requires-python = ">=3.14"
 dependencies = [
     "alembic>=1.15.2",
     "asyncpg>=0.30.0",
@@ -17,8 +17,13 @@ dependencies = [
     "pydantic-settings>=2.9.1",
     "python-dotenv>=1.1.0",
     "requests>=2.32.3",
+    "rich>=14.3.2",
     "sqlalchemy>=2.0.40",
+    "typer>=0.15.1",
 ]
+
+[project.scripts]
+arbuz = "cli:app"
 
 [dependency-groups]
 dev = ["pre-commit>=4.2.0", "ruff>=0.11.8"]
@@ -32,7 +37,7 @@ dev = ["pre-commit>=4.2.0", "ruff>=0.11.8"]
 exclude = [".git", "__pycache__", ".venv"]
 line-length = 120
 indent-width = 4
-target-version = "py313"
+target-version = "py314"
 
 [tool.ruff.lint]
 # Uncomment additional rules when ready to fix
