@@ -1,0 +1,1502 @@
+{
+  "data": {
+    "id": "225245",
+    "parentId": "225161",
+    "name": "\u042f\u0439\u0446\u0430, \u043c\u0430\u0441\u043b\u043e, \u043c\u0430\u0440\u0433\u0430\u0440\u0438\u043d",
+    "uri": "/ru/almaty/catalog/cat/225245-yaica_maslo_margarin",
+    "catalogCount": 3,
+    "sort": 4,
+    "description": "",
+    "deliveryTime": null,
+    "deliveryStartAt": null,
+    "deliveryEndAt": null,
+    "isActive": 1,
+    "iconSvg": null,
+    "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225245-yaica.png?w=%w&h=%h&_c=1751630802",
+    "iconRect": null,
+    "iconRectPng": null,
+    "iconRectSquare": null,
+    "iconCategoryPng": null,
+    "cssClass": null,
+    "action": null,
+    "isElasticsearch": true,
+    "parent": {
+      "data": {
+        "id": "225161",
+        "parentId": "0",
+        "name": "\u041c\u043e\u043b\u043e\u043a\u043e, \u0441\u044b\u0440 \u0438 \u044f\u0439\u0446\u0430",
+        "uri": "/ru/almaty/catalog/cat/225161-moloko_syr_i_yaica",
+        "catalogCount": 5,
+        "sort": 2,
+        "isActive": 1,
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225161-moloko_syr_maslo_yaica.svg",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225161-moloko_syr_maslo_yaica.png?w=%w&h=%h&_c=1767604872",
+        "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225161-moloko_syr_maslo_yaica_rectangle_svg.svg",
+        "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225161-moloko_syr_maslo_yai_ca_pryamougolnya_png.png?w=%w&h=%h&_c=1767604872",
+        "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225161-moloko_syr_maslo_yaica_square_svg.svg",
+        "iconCategoryPng": null,
+        "parent": null,
+        "catalogs": {
+          "data": []
+        }
+      }
+    },
+    "catalogs": {
+      "data": [
+        {
+          "id": "20114",
+          "parentId": "225245",
+          "name": "\u042f\u0439\u0446\u0430",
+          "uri": "/ru/almaty/catalog/cat/20114-yaica",
+          "catalogCount": 39,
+          "sort": 1,
+          "isActive": 1,
+          "iconSvg": null,
+          "iconPng": null,
+          "iconRect": null,
+          "iconRectPng": null,
+          "iconRectSquare": null,
+          "iconCategoryPng": null
+        },
+        {
+          "id": "20040",
+          "parentId": "225245",
+          "name": "\u0421\u043b\u0438\u0432\u043e\u0447\u043d\u043e\u0435 \u043c\u0430\u0441\u043b\u043e",
+          "uri": "/ru/almaty/catalog/cat/20040-slivochnoe_maslo",
+          "catalogCount": 63,
+          "sort": 2,
+          "isActive": 1,
+          "iconSvg": null,
+          "iconPng": null,
+          "iconRect": null,
+          "iconRectPng": null,
+          "iconRectSquare": null,
+          "iconCategoryPng": null
+        },
+        {
+          "id": "224760",
+          "parentId": "225245",
+          "name": "\u041c\u0430\u0440\u0433\u0430\u0440\u0438\u043d, \u0441\u043f\u0440\u0435\u0434",
+          "uri": "/ru/almaty/catalog/cat/224760-margarin_spred",
+          "catalogCount": 27,
+          "sort": 3,
+          "isActive": 1,
+          "iconSvg": null,
+          "iconPng": null,
+          "iconRect": null,
+          "iconRectPng": null,
+          "iconRectSquare": null,
+          "iconCategoryPng": null
+        }
+      ]
+    },
+    "products": {
+      "data": [
+        {
+          "id": "331521",
+          "catalogId": "20114",
+          "catalogName": "\u042f\u0439\u0446\u0430, \u043c\u0430\u0441\u043b\u043e, \u043c\u0430\u0440\u0433\u0430\u0440\u0438\u043d",
+          "parentCatalogId": 225245,
+          "lang": "ru",
+          "name": "\u042f\u0439\u0446\u0430 Lolo classic, 10 \u0448\u0442",
+          "producerCountry": "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+          "brandName": "Lolo",
+          "description": "",
+          "htmlDescription": "",
+          "compound": "",
+          "uri": "/ru/almaty/catalog/item/331521-yaica_lolo_classic_10_sht",
+          "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__09226088-e480-4c1f-9daa-9b1b7135a5d4-4870212361550_yai_co_kurinoe_lolo_otbornoe_10_sht_1_jpg.jpg?w=%w&h=%h&_c=1767087300",
+          "measure": "\u0448\u0442",
+          "isWeighted": false,
+          "weightAvg": 0,
+          "weightMin": 1,
+          "weightMax": 2,
+          "weight": "1 \u0448\u0442",
+          "pieceWeightMax": 0,
+          "pieceWeightMin": 0,
+          "sellByPiece": false,
+          "quantityMinStep": 1,
+          "priceActual": 870,
+          "priceSpecial": null,
+          "friendsDiscount": "",
+          "discount": "",
+          "pricePrevious": 0,
+          "isMain": false,
+          "isRecommended": false,
+          "recommendationType": null,
+          "articleIndex": "",
+          "articleGroup": "",
+          "barcode": "",
+          "badges": [],
+          "contents": {
+            "data": [
+              {
+                "title": "",
+                "content": ""
+              }
+            ]
+          },
+          "isAvailable": true,
+          "quantityExpress": 2,
+          "benefits": {
+            "defaultCashbackPercent": 0,
+            "friendsCashbackPercent": 5,
+            "defaultBonusAmount": 0,
+            "friendsBonusAmount": 44
+          },
+          "discountAmount": null,
+          "isNew": false,
+          "cashback": "",
+          "notify": null,
+          "groupId": 1,
+          "sellerLabel": null,
+          "isPromotional": false,
+          "hasPromotion": false,
+          "isExpressAvailable": true,
+          "isLocal": false,
+          "linkRel": null,
+          "isVerified": false,
+          "verifiedLabel": null,
+          "nutrition": {
+            "fats": "12",
+            "kcal": "164",
+            "carbs": "1",
+            "protein": "13"
+          },
+          "ingredients": "\u042f\u0439\u0446\u0430 \u043a\u0443\u0440\u0438\u043d\u044b\u0435",
+          "storageConditions": "\u0425\u0440\u0430\u043d\u0438\u0442\u044c \u043f\u0440\u0438 \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0435 \u043e\u0442 0 &deg;C \u0434\u043e +20 &deg;C",
+          "characteristics": [
+            {
+              "id": "6",
+              "name": "\u0425\u0430\u043b\u0430\u043b",
+              "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/6-halal.png?_c=1702450629"
+            }
+          ],
+          "topInformationBadge": "",
+          "information": "<p>\u042f\u0439\u0446\u0430 Lolo Classic, 10 \u0448\u0442 &ndash; \u0441\u0432\u0435\u0436\u0438\u0435 \u043a\u0443\u0440\u0438\u043d\u044b\u0435 \u044f\u0439\u0446\u0430 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 &laquo;\u0441\u0442\u043e\u043b\u043e\u0432\u044b\u0435&raquo;, \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u043d\u044b\u0435 \u043e\u0442 \u043a\u0443\u0440, \u0432\u044b\u0440\u0430\u0449\u0435\u043d\u043d\u044b\u0445 \u043d\u0430 \u043d\u0430\u0442\u0443\u0440\u0430\u043b\u044c\u043d\u044b\u0445 \u043a\u043e\u0440\u043c\u0430\u0445. \u041e\u0442\u043b\u0438\u0447\u0430\u044e\u0442\u0441\u044f \u0432\u044b\u0441\u043e\u043a\u0438\u043c \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u043e\u043c \u0438 \u043d\u0430\u0442\u0443\u0440\u0430\u043b\u044c\u043d\u044b\u043c \u0432\u043a\u0443\u0441\u043e\u043c, \u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044e\u0442 \u0441\u0430\u043d\u0438\u0442\u0430\u0440\u043d\u044b\u043c \u043d\u043e\u0440\u043c\u0430\u043c \u0438 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u0430\u043c. \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u044b \u0432 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0438: \u043f\u043e\u0434\u0445\u043e\u0434\u044f\u0442 \u0434\u043b\u044f \u043f\u0440\u0438\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0433\u043e\u0440\u044f\u0447\u0438\u0445 \u0431\u043b\u044e\u0434, \u0437\u0430\u0432\u0442\u0440\u0430\u043a\u043e\u0432, \u0432\u044b\u043f\u0435\u0447\u043a\u0438 \u0438 \u0434\u0435\u0441\u0435\u0440\u0442\u043e\u0432.</p>",
+          "rating": {
+            "value": "4,7",
+            "reviews": "4 \u043e\u0446\u0435\u043d\u043a\u0438"
+          },
+          "pharmProperties": null,
+          "titleIcon": null,
+          "additionalInformation": {
+            "unitStepType": "pcs",
+            "categoryLevel3Id": "20114",
+            "categoryLevel1": "\u041c\u043e\u043b\u043e\u043a\u043e, \u0441\u044b\u0440 \u0438 \u044f\u0439\u0446\u0430",
+            "categoryLevel2": "\u042f\u0439\u0446\u0430, \u043c\u0430\u0441\u043b\u043e, \u043c\u0430\u0440\u0433\u0430\u0440\u0438\u043d",
+            "categoryLevel3": "\u042f\u0439\u0446\u0430",
+            "bonusesAwardedPercent": 0
+          },
+          "superAppDeeplink": "https://freedombank.onelink.me/WNLd/7ljdya8i",
+          "canBeDeliveredByDrone": false,
+          "banners": []
+        },
+        {
+          "id": "324091",
+          "catalogId": "20114",
+          "catalogName": "\u042f\u0439\u0446\u0430, \u043c\u0430\u0441\u043b\u043e, \u043c\u0430\u0440\u0433\u0430\u0440\u0438\u043d",
+          "parentCatalogId": 225245,
+          "lang": "ru",
+          "name": "\u042f\u0439\u0446\u0430 Arbuz Select \u043e\u0442\u0431\u043e\u0440\u043d\u044b\u0435 10 \u0448\u0442",
+          "producerCountry": "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+          "brandName": "Arbuz Select",
+          "description": "",
+          "htmlDescription": "",
+          "compound": "",
+          "uri": "/ru/almaty/catalog/item/324091-yaica_arbuz_select_otbornye_10_sht",
+          "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__bf154d2a-ddb0-476d-a6c1-42300374956c-324097_png.png?w=%w&h=%h&_c=1746680438",
+          "measure": "\u0448\u0442",
+          "isWeighted": false,
+          "weightAvg": 0,
+          "weightMin": 1,
+          "weightMax": 100,
+          "weight": "1 \u0448\u0442",
+          "pieceWeightMax": 0,
+          "pieceWeightMin": 1,
+          "sellByPiece": false,
+          "quantityMinStep": 1,
+          "priceActual": 1155,
+          "priceSpecial": null,
+          "friendsDiscount": "",
+          "discount": "",
+          "pricePrevious": 0,
+          "isMain": false,
+          "isRecommended": false,
+          "recommendationType": null,
+          "articleIndex": "",
+          "articleGroup": "",
+          "barcode": "",
+          "badges": [],
+          "contents": {
+            "data": [
+              {
+                "title": "",
+                "content": ""
+              }
+            ]
+          },
+          "isAvailable": true,
+          "quantityExpress": 149,
+          "benefits": {
+            "defaultCashbackPercent": 0,
+            "friendsCashbackPercent": 5,
+            "defaultBonusAmount": 0,
+            "friendsBonusAmount": 58
+          },
+          "discountAmount": null,
+          "isNew": false,
+          "cashback": "",
+          "notify": null,
+          "groupId": 1,
+          "sellerLabel": null,
+          "isPromotional": false,
+          "hasPromotion": false,
+          "isExpressAvailable": true,
+          "isLocal": false,
+          "linkRel": null,
+          "isVerified": false,
+          "verifiedLabel": null,
+          "nutrition": {
+            "fats": "9,5",
+            "kcal": "143",
+            "carbs": "0,7",
+            "protein": "12,6"
+          },
+          "ingredients": null,
+          "storageConditions": "25 \u0434\u043d\u0435\u0439, \u043e\u0442 0&deg;\u0421 \u0434\u043e +20&deg;\u0421",
+          "characteristics": [
+            {
+              "id": "14",
+              "name": "\u0411\u0435\u0437 \u0430\u043d\u0442\u0438\u0431\u0438\u043e\u0442\u0438\u043a\u043e\u0432",
+              "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__14-bez_antibiotikov.png?_c=1739517304"
+            }
+          ],
+          "topInformationBadge": "",
+          "information": "\u042f\u0439\u0446\u0430 \u041e\u0442\u0431\u043e\u0440\u043d\u043e\u0439 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 - \u044d\u0442\u043e \u044f\u0439\u0446\u0430, \u043f\u0440\u043e\u0448\u0435\u0434\u0448\u0438\u0435 \u0441\u0442\u0440\u043e\u0433\u0438\u0439 \u043e\u0442\u0431\u043e\u0440 \u043f\u043e \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0443. \u041e\u043d\u0438 \u0438\u043c\u0435\u044e\u0442 \u0446\u0435\u043b\u0443\u044e \u0438 \u0447\u0438\u0441\u0442\u0443\u044e \u0441\u043a\u043e\u0440\u043b\u0443\u043f\u0443, \u044f\u0440\u043a\u0438\u0439 \u0436\u0435\u043b\u0442\u043e\u043a \u0438 \u043f\u043b\u043e\u0442\u043d\u044b\u0439 \u0431\u0435\u043b\u043e\u043a.",
+          "rating": {
+            "value": "4,9",
+            "reviews": "94 \u043e\u0446\u0435\u043d\u043a\u0438"
+          },
+          "pharmProperties": null,
+          "titleIcon": null,
+          "additionalInformation": {
+            "unitStepType": "pcs",
+            "categoryLevel3Id": "20114",
+            "categoryLevel1": "\u041c\u043e\u043b\u043e\u043a\u043e, \u0441\u044b\u0440 \u0438 \u044f\u0439\u0446\u0430",
+            "categoryLevel2": "\u042f\u0439\u0446\u0430, \u043c\u0430\u0441\u043b\u043e, \u043c\u0430\u0440\u0433\u0430\u0440\u0438\u043d",
+            "categoryLevel3": "\u042f\u0439\u0446\u0430",
+            "bonusesAwardedPercent": 0
+          },
+          "superAppDeeplink": "https://freedombank.onelink.me/WNLd/3it9xb39",
+          "canBeDeliveredByDrone": false,
+          "banners": []
+        },
+        {
+          "id": "324132",
+          "catalogId": "20114",
+          "catalogName": "\u042f\u0439\u0446\u0430, \u043c\u0430\u0441\u043b\u043e, \u043c\u0430\u0440\u0433\u0430\u0440\u0438\u043d",
+          "parentCatalogId": 225245,
+          "lang": "ru",
+          "name": "\u042f\u0439\u0446\u0430 Arbuz Select 1 \u0444\u0435\u0440\u043c\u0435\u0440\u0441\u043a\u0438\u0435 \u043e\u0442\u0431\u043e\u0440\u043d\u044b\u0435 10 \u0448\u0442",
+          "producerCountry": "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+          "brandName": "Arbuz Select",
+          "description": "",
+          "htmlDescription": "",
+          "compound": "",
+          "uri": "/ru/almaty/catalog/item/324132-yaica_arbuz_select_1_fermerskie_otbornye_10_sht",
+          "image": "https://arbuz.kz/image/s3/arbuz-kz-products/image__324132-yaica_arbuz_select_1_fermerskie_otbornye_10_sht.png?w=%w&h=%h&_c=1770757649",
+          "measure": "\u0448\u0442",
+          "isWeighted": false,
+          "weightAvg": 0,
+          "weightMin": 1,
+          "weightMax": 100,
+          "weight": "1 \u0448\u0442",
+          "pieceWeightMax": 0,
+          "pieceWeightMin": 1,
+          "sellByPiece": false,
+          "quantityMinStep": 1,
+          "priceActual": 999,
+          "priceSpecial": null,
+          "friendsDiscount": "",
+          "discount": "\u221214%",
+          "pricePrevious": 1155,
+          "isMain": false,
+          "isRecommended": false,
+          "recommendationType": null,
+          "articleIndex": "",
+          "articleGroup": "",
+          "barcode": "",
+          "badges": [
+            {
+              "text": "\u221214%",
+              "backgroundColor": "#4F4F4F",
+              "textColor": "#FFFFFF",
+              "basketHidden": true,
+              "priority": 2,
+              "position": "top",
+              "type": "discount"
+            },
+            {
+              "text": "\u0421 \u0444\u0435\u0440\u043c\u044b",
+              "backgroundColor": "#F0AE2E",
+              "textColor": "#FFFFFF",
+              "position": "bottom",
+              "priority": 5
+            }
+          ],
+          "contents": {
+            "data": [
+              {
+                "title": "",
+                "content": ""
+              }
+            ]
+          },
+          "isAvailable": true,
+          "quantityExpress": 438,
+          "benefits": {
+            "defaultCashbackPercent": 0,
+            "friendsCashbackPercent": 5,
+            "defaultBonusAmount": 0,
+            "friendsBonusAmount": 50
+          },
+          "discountAmount": null,
+          "isNew": false,
+          "cashback": "",
+          "notify": null,
+          "groupId": 1,
+          "sellerLabel": null,
+          "isPromotional": false,
+          "hasPromotion": false,
+          "isExpressAvailable": true,
+          "isLocal": true,
+          "linkRel": null,
+          "isVerified": false,
+          "verifiedLabel": null,
+          "nutrition": {
+            "fats": "9,5",
+            "kcal": "143",
+            "carbs": "0,7",
+            "protein": "12,6"
+          },
+          "ingredients": null,
+          "storageConditions": "25 \u0434\u043d\u0435\u0439, \u043e\u0442 0&deg;\u0421 \u0434\u043e +20&deg;\u0421",
+          "characteristics": [
+            {
+              "id": "5",
+              "name": "C \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u043e\u0439 \u0444\u0435\u0440\u043c\u044b",
+              "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/5-c_lokalnoi_fermy.png?_c=1739163464"
+            },
+            {
+              "id": "14",
+              "name": "\u0411\u0435\u0437 \u0430\u043d\u0442\u0438\u0431\u0438\u043e\u0442\u0438\u043a\u043e\u0432",
+              "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__14-bez_antibiotikov.png?_c=1739517304"
+            }
+          ],
+          "topInformationBadge": "",
+          "information": "\u0424\u0435\u0440\u043c\u0435\u0440\u0441\u043a\u0438\u0435 \u044f\u0439\u0446\u0430 \u043e\u0442\u0431\u043e\u0440\u043d\u044b\u0435 - \u044d\u0442\u043e \u044f\u0439\u0446\u0430, \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u043d\u044b\u0435 \u043e\u0442 \u043a\u0443\u0440, \u0432\u044b\u0440\u0430\u0449\u0435\u043d\u043d\u044b\u0445 \u0432 \u043d\u0430\u0442\u0443\u0440\u0430\u043b\u044c\u043d\u044b\u0445 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445 \u0441 \u0434\u043e\u0441\u0442\u0443\u043f\u043e\u043c \u043a \u0441\u0432\u0435\u0436\u0435\u043c\u0443 \u0432\u043e\u0437\u0434\u0443\u0445\u0443 \u0438 \u043a\u043e\u0440\u043c\u0443 \u0431\u0435\u0437 \u0434\u043e\u0431\u0430\u0432\u043e\u043a \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0432\u0435\u0449\u0435\u0441\u0442\u0432. \u041e\u043d\u0438 \u0438\u043c\u0435\u044e\u0442 \u043f\u0440\u043e\u0447\u043d\u0443\u044e \u0441\u043a\u043e\u0440\u043b\u0443\u043f\u0443, \u044f\u0440\u043a\u0438\u0439 \u043e\u0440\u0430\u043d\u0436\u0435\u0432\u044b\u0439 \u0436\u0435\u043b\u0442\u043e\u043a \u0438 \u043d\u0430\u0441\u044b\u0449\u0435\u043d\u043d\u044b\u0439 \u0432\u043a\u0443\u0441. \u042d\u0442\u0438 \u044f\u0439\u0446\u0430 \u0431\u043e\u0433\u0430\u0442\u044b \u0432\u0438\u0442\u0430\u043c\u0438\u043d\u0430\u043c\u0438, \u043c\u0438\u043d\u0435\u0440\u0430\u043b\u0430\u043c\u0438 \u0438 \u043f\u043e\u043b\u0435\u0437\u043d\u044b\u043c\u0438 \u0436\u0438\u0440\u043d\u044b\u043c\u0438 \u043a\u0438\u0441\u043b\u043e\u0442\u0430\u043c\u0438, \u0447\u0442\u043e \u0434\u0435\u043b\u0430\u0435\u0442 \u0438\u0445 \u0431\u043e\u043b\u0435\u0435 \u043f\u0438\u0442\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u043c\u0438 \u0438 \u043f\u043e\u043b\u0435\u0437\u043d\u044b\u043c\u0438 \u043f\u043e \u0441\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u044e \u0441 \u043f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u044b\u043c\u0438 \u044f\u0439\u0446\u0430\u043c\u0438.",
+          "rating": {
+            "value": "4,8",
+            "reviews": "89 \u043e\u0446\u0435\u043d\u043e\u043a"
+          },
+          "pharmProperties": null,
+          "titleIcon": null,
+          "additionalInformation": {
+            "unitStepType": "pcs",
+            "categoryLevel3Id": "20114",
+            "categoryLevel1": "\u041c\u043e\u043b\u043e\u043a\u043e, \u0441\u044b\u0440 \u0438 \u044f\u0439\u0446\u0430",
+            "categoryLevel2": "\u042f\u0439\u0446\u0430, \u043c\u0430\u0441\u043b\u043e, \u043c\u0430\u0440\u0433\u0430\u0440\u0438\u043d",
+            "categoryLevel3": "\u042f\u0439\u0446\u0430",
+            "bonusesAwardedPercent": 0
+          },
+          "superAppDeeplink": "https://freedombank.onelink.me/WNLd/ibay112m",
+          "canBeDeliveredByDrone": false,
+          "banners": []
+        },
+        {
+          "id": "324093",
+          "catalogId": "20114",
+          "catalogName": "\u042f\u0439\u0446\u0430, \u043c\u0430\u0441\u043b\u043e, \u043c\u0430\u0440\u0433\u0430\u0440\u0438\u043d",
+          "parentCatalogId": 225245,
+          "lang": "ru",
+          "name": "\u042f\u0439\u0446\u0430 Arbuz Select \u04211 10 \u0448\u0442",
+          "producerCountry": "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+          "brandName": "Arbuz Select",
+          "description": "",
+          "htmlDescription": "",
+          "compound": "",
+          "uri": "/ru/almaty/catalog/item/324093-yaica_arbuz_select_s1_10_sht",
+          "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__b9a60b9a-408d-4b26-b577-bdbf032112d2-324093_1_png.png?w=%w&h=%h&_c=1755518453",
+          "measure": "\u0448\u0442",
+          "isWeighted": false,
+          "weightAvg": 0,
+          "weightMin": 1,
+          "weightMax": 89,
+          "weight": "1 \u0448\u0442",
+          "pieceWeightMax": 0,
+          "pieceWeightMin": 1,
+          "sellByPiece": false,
+          "quantityMinStep": 1,
+          "priceActual": 1059,
+          "priceSpecial": null,
+          "friendsDiscount": "",
+          "discount": "",
+          "pricePrevious": 0,
+          "isMain": false,
+          "isRecommended": false,
+          "recommendationType": null,
+          "articleIndex": "",
+          "articleGroup": "",
+          "barcode": "",
+          "badges": [],
+          "contents": {
+            "data": [
+              {
+                "title": "",
+                "content": ""
+              }
+            ]
+          },
+          "isAvailable": true,
+          "quantityExpress": 89,
+          "benefits": {
+            "defaultCashbackPercent": 0,
+            "friendsCashbackPercent": 5,
+            "defaultBonusAmount": 0,
+            "friendsBonusAmount": 53
+          },
+          "discountAmount": null,
+          "isNew": false,
+          "cashback": "",
+          "notify": null,
+          "groupId": 1,
+          "sellerLabel": null,
+          "isPromotional": false,
+          "hasPromotion": false,
+          "isExpressAvailable": true,
+          "isLocal": false,
+          "linkRel": null,
+          "isVerified": false,
+          "verifiedLabel": null,
+          "nutrition": {
+            "fats": "9,5",
+            "kcal": "143",
+            "carbs": "0,7",
+            "protein": "12,6"
+          },
+          "ingredients": null,
+          "storageConditions": "25 \u0434\u043d\u0435\u0439, \u043e\u0442 0&deg;\u0421 \u0434\u043e +20&deg;\u0421",
+          "characteristics": [
+            {
+              "id": "14",
+              "name": "\u0411\u0435\u0437 \u0430\u043d\u0442\u0438\u0431\u0438\u043e\u0442\u0438\u043a\u043e\u0432",
+              "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__14-bez_antibiotikov.png?_c=1739517304"
+            }
+          ],
+          "topInformationBadge": "",
+          "information": "\u042f\u0439\u0446\u0430 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 &quot;\u04211&quot; - \u044d\u0442\u043e \u044f\u0439\u0446\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044e\u0442 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u0430\u043c \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430, \u043d\u043e \u043c\u043e\u0433\u0443\u0442 \u0438\u043c\u0435\u0442\u044c \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u0438\u0435 \u0432\u043d\u0435\u0448\u043d\u0438\u0435 \u0434\u0435\u0444\u0435\u043a\u0442\u044b, \u0442\u0430\u043a\u0438\u0435 \u043a\u0430\u043a \u0442\u0440\u0435\u0449\u0438\u043d\u044b \u043d\u0430 \u0441\u043a\u043e\u0440\u043b\u0443\u043f\u0435 \u0438\u043b\u0438 \u043d\u0435\u0438\u0434\u0435\u0430\u043b\u044c\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430. \u041d\u0435\u0441\u043c\u043e\u0442\u0440\u044f \u043d\u0430 \u044d\u0442\u043e, \u043e\u043d\u0438 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b \u0434\u043b\u044f \u0443\u043f\u043e\u0442\u0440\u0435\u0431\u043b\u0435\u043d\u0438\u044f \u0438 \u043e\u0431\u043b\u0430\u0434\u0430\u044e\u0442 \u0445\u043e\u0440\u043e\u0448\u0438\u043c\u0438 \u0432\u043a\u0443\u0441\u043e\u0432\u044b\u043c\u0438 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430\u043c\u0438.",
+          "rating": {
+            "value": "4,8",
+            "reviews": "24 \u043e\u0446\u0435\u043d\u043a\u0438"
+          },
+          "pharmProperties": null,
+          "titleIcon": null,
+          "additionalInformation": {
+            "unitStepType": "pcs",
+            "categoryLevel3Id": "20114",
+            "categoryLevel1": "\u041c\u043e\u043b\u043e\u043a\u043e, \u0441\u044b\u0440 \u0438 \u044f\u0439\u0446\u0430",
+            "categoryLevel2": "\u042f\u0439\u0446\u0430, \u043c\u0430\u0441\u043b\u043e, \u043c\u0430\u0440\u0433\u0430\u0440\u0438\u043d",
+            "categoryLevel3": "\u042f\u0439\u0446\u0430",
+            "bonusesAwardedPercent": 0
+          },
+          "superAppDeeplink": "https://freedombank.onelink.me/WNLd/ujvxkpg5",
+          "canBeDeliveredByDrone": false,
+          "banners": []
+        },
+        {
+          "id": "324095",
+          "catalogId": "20114",
+          "catalogName": "\u042f\u0439\u0446\u0430, \u043c\u0430\u0441\u043b\u043e, \u043c\u0430\u0440\u0433\u0430\u0440\u0438\u043d",
+          "parentCatalogId": 225245,
+          "lang": "ru",
+          "name": "\u042f\u0439\u0446\u0430 Arbuz Select \"\u04212\" 10 \u0448\u0442",
+          "producerCountry": "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+          "brandName": "Arbuz Select",
+          "description": "",
+          "htmlDescription": "",
+          "compound": "",
+          "uri": "/ru/almaty/catalog/item/324095-yaica_arbuz_select_s2_10_sht",
+          "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__bd900ae2-e89e-46fd-9e38-01b687650783-324095_2_png.png?w=%w&h=%h&_c=1755518369",
+          "measure": "\u0448\u0442",
+          "isWeighted": false,
+          "weightAvg": 0,
+          "weightMin": 1,
+          "weightMax": 100,
+          "weight": "1 \u0448\u0442",
+          "pieceWeightMax": 0,
+          "pieceWeightMin": 1,
+          "sellByPiece": false,
+          "quantityMinStep": 1,
+          "priceActual": 995,
+          "priceSpecial": null,
+          "friendsDiscount": "",
+          "discount": "",
+          "pricePrevious": 0,
+          "isMain": false,
+          "isRecommended": false,
+          "recommendationType": null,
+          "articleIndex": "",
+          "articleGroup": "",
+          "barcode": "",
+          "badges": [],
+          "contents": {
+            "data": [
+              {
+                "title": "",
+                "content": ""
+              }
+            ]
+          },
+          "isAvailable": true,
+          "quantityExpress": 135,
+          "benefits": {
+            "defaultCashbackPercent": 0,
+            "friendsCashbackPercent": 5,
+            "defaultBonusAmount": 0,
+            "friendsBonusAmount": 50
+          },
+          "discountAmount": null,
+          "isNew": false,
+          "cashback": "",
+          "notify": null,
+          "groupId": 1,
+          "sellerLabel": null,
+          "isPromotional": false,
+          "hasPromotion": false,
+          "isExpressAvailable": true,
+          "isLocal": false,
+          "linkRel": null,
+          "isVerified": false,
+          "verifiedLabel": null,
+          "nutrition": {
+            "fats": "9,5",
+            "kcal": "143",
+            "carbs": "0,7",
+            "protein": "12,6"
+          },
+          "ingredients": null,
+          "storageConditions": "25 \u0434\u043d\u0435\u0439, \u043e\u0442 0&deg;\u0421 \u0434\u043e +20&deg;\u0421",
+          "characteristics": [
+            {
+              "id": "14",
+              "name": "\u0411\u0435\u0437 \u0430\u043d\u0442\u0438\u0431\u0438\u043e\u0442\u0438\u043a\u043e\u0432",
+              "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__14-bez_antibiotikov.png?_c=1739517304"
+            }
+          ],
+          "topInformationBadge": "",
+          "information": "\u042f\u0439\u0446\u0430 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 &quot;\u04212&quot; - \u044d\u0442\u043e \u044f\u0439\u0446\u0430, \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0440\u0430\u0437\u043c\u0435\u0440 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043e\u0447\u0435\u043d\u044c \u0443\u0434\u043e\u0431\u0435\u043d \u0434\u043b\u044f \u043f\u0440\u0438\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0445 \u043f\u043e\u0440\u0446\u0438\u0439 \u0441\u044b\u0440\u043d\u0438\u043a\u043e\u0432, \u043e\u043b\u0430\u0434\u0438\u0439 \u0438 \u0434\u0440\u0443\u0433\u043e\u0439 \u0432\u044b\u043f\u0435\u0447\u043a\u0438.",
+          "rating": {
+            "value": "4,6",
+            "reviews": "25 \u043e\u0446\u0435\u043d\u043e\u043a"
+          },
+          "pharmProperties": null,
+          "titleIcon": null,
+          "additionalInformation": {
+            "unitStepType": "pcs",
+            "categoryLevel3Id": "20114",
+            "categoryLevel1": "\u041c\u043e\u043b\u043e\u043a\u043e, \u0441\u044b\u0440 \u0438 \u044f\u0439\u0446\u0430",
+            "categoryLevel2": "\u042f\u0439\u0446\u0430, \u043c\u0430\u0441\u043b\u043e, \u043c\u0430\u0440\u0433\u0430\u0440\u0438\u043d",
+            "categoryLevel3": "\u042f\u0439\u0446\u0430",
+            "bonusesAwardedPercent": 0
+          },
+          "superAppDeeplink": "https://freedombank.onelink.me/WNLd/w9ohlufk",
+          "canBeDeliveredByDrone": false,
+          "banners": []
+        },
+        {
+          "id": "330994",
+          "catalogId": "20114",
+          "catalogName": "\u042f\u0439\u0446\u0430, \u043c\u0430\u0441\u043b\u043e, \u043c\u0430\u0440\u0433\u0430\u0440\u0438\u043d",
+          "parentCatalogId": 225245,
+          "lang": "ru",
+          "name": "\u042f\u0439\u0446\u0430 Arbuz Select \"\u04212\" 20 \u0448\u0442",
+          "producerCountry": "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+          "brandName": "Arbuz Select",
+          "description": "",
+          "htmlDescription": "",
+          "compound": "",
+          "uri": "/ru/almaty/catalog/item/330994-yaica_arbuz_select_s2_20_sht",
+          "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__2723d1e5-3348-4510-a403-8534251b59c3-330994_png.png?w=%w&h=%h&_c=1755517927",
+          "measure": "\u0448\u0442",
+          "isWeighted": false,
+          "weightAvg": 0,
+          "weightMin": 1,
+          "weightMax": 66,
+          "weight": "1 \u0448\u0442",
+          "pieceWeightMax": 0,
+          "pieceWeightMin": 0,
+          "sellByPiece": false,
+          "quantityMinStep": 1,
+          "priceActual": 1905,
+          "priceSpecial": null,
+          "friendsDiscount": "",
+          "discount": "",
+          "pricePrevious": 0,
+          "isMain": false,
+          "isRecommended": false,
+          "recommendationType": null,
+          "articleIndex": "",
+          "articleGroup": "",
+          "barcode": "",
+          "badges": [
+            {
+              "text": "\u0421 \u0444\u0435\u0440\u043c\u044b",
+              "backgroundColor": "#F0AE2E",
+              "textColor": "#FFFFFF",
+              "position": "bottom",
+              "priority": 5
+            }
+          ],
+          "contents": {
+            "data": [
+              {
+                "title": "",
+                "content": ""
+              }
+            ]
+          },
+          "isAvailable": true,
+          "quantityExpress": 66,
+          "benefits": {
+            "defaultCashbackPercent": 0,
+            "friendsCashbackPercent": 5,
+            "defaultBonusAmount": 0,
+            "friendsBonusAmount": 95
+          },
+          "discountAmount": null,
+          "isNew": false,
+          "cashback": "",
+          "notify": null,
+          "groupId": 1,
+          "sellerLabel": null,
+          "isPromotional": false,
+          "hasPromotion": false,
+          "isExpressAvailable": true,
+          "isLocal": true,
+          "linkRel": null,
+          "isVerified": false,
+          "verifiedLabel": null,
+          "nutrition": {
+            "fats": "9,5",
+            "kcal": "143",
+            "carbs": "0,7",
+            "protein": "12,6"
+          },
+          "ingredients": null,
+          "storageConditions": "\u0425\u0440\u0430\u043d\u0438\u0442\u044c \u043f\u0440\u0438 \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0435 \u043e\u0442 0&deg;\u0421 \u0434\u043e +20&deg;\u0421 \u0438 \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0432\u043b\u0430\u0436\u043d\u043e\u0441\u0442\u0438 85-88% - 25 \u0421\u0423\u0422\u041e\u041a.",
+          "characteristics": [
+            {
+              "id": "5",
+              "name": "C \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u043e\u0439 \u0444\u0435\u0440\u043c\u044b",
+              "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/5-c_lokalnoi_fermy.png?_c=1739163464"
+            }
+          ],
+          "topInformationBadge": "",
+          "information": "<p>\u042f\u0439\u0446\u0430 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 &quot;\u04212&quot; - \u044d\u0442\u043e \u044f\u0439\u0446\u0430, \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0440\u0430\u0437\u043c\u0435\u0440 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043e\u0447\u0435\u043d\u044c \u0443\u0434\u043e\u0431\u0435\u043d \u0434\u043b\u044f \u043f\u0440\u0438\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0445 \u043f\u043e\u0440\u0446\u0438\u0439 \u0441\u044b\u0440\u043d\u0438\u043a\u043e\u0432, \u043e\u043b\u0430\u0434\u0438\u0439 \u0438 \u0434\u0440\u0443\u0433\u043e\u0439 \u0432\u044b\u043f\u0435\u0447\u043a\u0438.</p>",
+          "rating": {
+            "value": "4,8",
+            "reviews": "5 \u043e\u0446\u0435\u043d\u043e\u043a"
+          },
+          "pharmProperties": null,
+          "titleIcon": null,
+          "additionalInformation": {
+            "unitStepType": "pcs",
+            "categoryLevel3Id": "20114",
+            "categoryLevel1": "\u041c\u043e\u043b\u043e\u043a\u043e, \u0441\u044b\u0440 \u0438 \u044f\u0439\u0446\u0430",
+            "categoryLevel2": "\u042f\u0439\u0446\u0430, \u043c\u0430\u0441\u043b\u043e, \u043c\u0430\u0440\u0433\u0430\u0440\u0438\u043d",
+            "categoryLevel3": "\u042f\u0439\u0446\u0430",
+            "bonusesAwardedPercent": 0
+          },
+          "superAppDeeplink": "https://freedombank.onelink.me/WNLd/3d6cd6yr",
+          "canBeDeliveredByDrone": false,
+          "banners": []
+        },
+        {
+          "id": "330995",
+          "catalogId": "20114",
+          "catalogName": "\u042f\u0439\u0446\u0430, \u043c\u0430\u0441\u043b\u043e, \u043c\u0430\u0440\u0433\u0430\u0440\u0438\u043d",
+          "parentCatalogId": 225245,
+          "lang": "ru",
+          "name": "\u042f\u0439\u0446\u0430 Arbuz Select \"\u04211\" 20 \u0448\u0442",
+          "producerCountry": "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+          "brandName": "Arbuz Select",
+          "description": "",
+          "htmlDescription": "",
+          "compound": "",
+          "uri": "/ru/almaty/catalog/item/330995-yaica_arbuz_select_s1_20_sht",
+          "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__6efd1600-2cbd-4d2b-b6f3-1bf87de635ad-330995_2_png.png?w=%w&h=%h&_c=1755517831",
+          "measure": "\u0448\u0442",
+          "isWeighted": false,
+          "weightAvg": 0,
+          "weightMin": 1,
+          "weightMax": 82,
+          "weight": "1 \u0448\u0442",
+          "pieceWeightMax": 0,
+          "pieceWeightMin": 0,
+          "sellByPiece": false,
+          "quantityMinStep": 1,
+          "priceActual": 2117,
+          "priceSpecial": null,
+          "friendsDiscount": "",
+          "discount": "",
+          "pricePrevious": 0,
+          "isMain": false,
+          "isRecommended": false,
+          "recommendationType": null,
+          "articleIndex": "",
+          "articleGroup": "",
+          "barcode": "",
+          "badges": [
+            {
+              "text": "\u0421 \u0444\u0435\u0440\u043c\u044b",
+              "backgroundColor": "#F0AE2E",
+              "textColor": "#FFFFFF",
+              "position": "bottom",
+              "priority": 5
+            }
+          ],
+          "contents": {
+            "data": [
+              {
+                "title": "",
+                "content": ""
+              }
+            ]
+          },
+          "isAvailable": true,
+          "quantityExpress": 82,
+          "benefits": {
+            "defaultCashbackPercent": 0,
+            "friendsCashbackPercent": 5,
+            "defaultBonusAmount": 0,
+            "friendsBonusAmount": 106
+          },
+          "discountAmount": null,
+          "isNew": false,
+          "cashback": "",
+          "notify": null,
+          "groupId": 1,
+          "sellerLabel": null,
+          "isPromotional": false,
+          "hasPromotion": false,
+          "isExpressAvailable": true,
+          "isLocal": true,
+          "linkRel": null,
+          "isVerified": false,
+          "verifiedLabel": null,
+          "nutrition": {
+            "fats": "9,5",
+            "kcal": "143",
+            "carbs": "0,7",
+            "protein": "12,6"
+          },
+          "ingredients": null,
+          "storageConditions": "\u0425\u0440\u0430\u043d\u0438\u0442\u044c \u043f\u0440\u0438 \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0435 \u043e\u0442 0&deg;\u0421 \u0434\u043e +20&deg;\u0421 \u0438 \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0432\u043b\u0430\u0436\u043d\u043e\u0441\u0442\u0438 85-88% - 25 \u0421\u0423\u0422\u041e\u041a.",
+          "characteristics": [
+            {
+              "id": "5",
+              "name": "C \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u043e\u0439 \u0444\u0435\u0440\u043c\u044b",
+              "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/5-c_lokalnoi_fermy.png?_c=1739163464"
+            }
+          ],
+          "topInformationBadge": "",
+          "information": "<p>\u042f\u0439\u0446\u0430 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 &quot;\u04211&quot; - \u044d\u0442\u043e \u044f\u0439\u0446\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044e\u0442 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u0430\u043c \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430, \u043d\u043e \u043c\u043e\u0433\u0443\u0442 \u0438\u043c\u0435\u0442\u044c \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u0438\u0435 \u0432\u043d\u0435\u0448\u043d\u0438\u0435 \u0434\u0435\u0444\u0435\u043a\u0442\u044b, \u0442\u0430\u043a\u0438\u0435 \u043a\u0430\u043a \u043d\u0435\u0438\u0434\u0435\u0430\u043b\u044c\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430.</p>",
+          "rating": {
+            "value": "4,9",
+            "reviews": "7 \u043e\u0446\u0435\u043d\u043e\u043a"
+          },
+          "pharmProperties": null,
+          "titleIcon": null,
+          "additionalInformation": {
+            "unitStepType": "pcs",
+            "categoryLevel3Id": "20114",
+            "categoryLevel1": "\u041c\u043e\u043b\u043e\u043a\u043e, \u0441\u044b\u0440 \u0438 \u044f\u0439\u0446\u0430",
+            "categoryLevel2": "\u042f\u0439\u0446\u0430, \u043c\u0430\u0441\u043b\u043e, \u043c\u0430\u0440\u0433\u0430\u0440\u0438\u043d",
+            "categoryLevel3": "\u042f\u0439\u0446\u0430",
+            "bonusesAwardedPercent": 0
+          },
+          "superAppDeeplink": "https://freedombank.onelink.me/WNLd/ykwy78xf",
+          "canBeDeliveredByDrone": false,
+          "banners": []
+        },
+        {
+          "id": "330992",
+          "catalogId": "20114",
+          "catalogName": "\u042f\u0439\u0446\u0430, \u043c\u0430\u0441\u043b\u043e, \u043c\u0430\u0440\u0433\u0430\u0440\u0438\u043d",
+          "parentCatalogId": 225245,
+          "lang": "ru",
+          "name": "\u042f\u0439\u0446\u0430 Arbuz Select \"\u041e\u0442\u0431\u043e\u0440\u043d\u044b\u0435\" 20 \u0448\u0442",
+          "producerCountry": "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+          "brandName": "Arbuz Select",
+          "description": "",
+          "htmlDescription": "",
+          "compound": "",
+          "uri": "/ru/almaty/catalog/item/330992-yaica_arbuz_select_otbornye_20_sht",
+          "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__b86db993-a96a-4330-a6c7-ab04da50e8ab-330992_1_png.png?w=%w&h=%h&_c=1755518123",
+          "measure": "\u0448\u0442",
+          "isWeighted": false,
+          "weightAvg": 0,
+          "weightMin": 1,
+          "weightMax": 42,
+          "weight": "1 \u0448\u0442",
+          "pieceWeightMax": 0,
+          "pieceWeightMin": 0,
+          "sellByPiece": false,
+          "quantityMinStep": 1,
+          "priceActual": 2240,
+          "priceSpecial": null,
+          "friendsDiscount": "",
+          "discount": "",
+          "pricePrevious": 0,
+          "isMain": false,
+          "isRecommended": false,
+          "recommendationType": null,
+          "articleIndex": "",
+          "articleGroup": "",
+          "barcode": "",
+          "badges": [
+            {
+              "text": "\u0421 \u0444\u0435\u0440\u043c\u044b",
+              "backgroundColor": "#F0AE2E",
+              "textColor": "#FFFFFF",
+              "position": "bottom",
+              "priority": 5
+            }
+          ],
+          "contents": {
+            "data": [
+              {
+                "title": "",
+                "content": ""
+              }
+            ]
+          },
+          "isAvailable": true,
+          "quantityExpress": 43,
+          "benefits": {
+            "defaultCashbackPercent": 0,
+            "friendsCashbackPercent": 5,
+            "defaultBonusAmount": 0,
+            "friendsBonusAmount": 112
+          },
+          "discountAmount": null,
+          "isNew": false,
+          "cashback": "",
+          "notify": null,
+          "groupId": 1,
+          "sellerLabel": null,
+          "isPromotional": false,
+          "hasPromotion": false,
+          "isExpressAvailable": true,
+          "isLocal": true,
+          "linkRel": null,
+          "isVerified": false,
+          "verifiedLabel": null,
+          "nutrition": {
+            "fats": "9,5",
+            "kcal": "143",
+            "carbs": "0,7",
+            "protein": "12,6"
+          },
+          "ingredients": null,
+          "storageConditions": "\u0425\u0440\u0430\u043d\u0438\u0442\u044c \u043f\u0440\u0438 \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0435 \u043e\u0442 0&deg;\u0421 \u0434\u043e +20&deg;\u0421 \u0438 \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0432\u043b\u0430\u0436\u043d\u043e\u0441\u0442\u0438 85-88% - 25 \u0421\u0423\u0422\u041e\u041a.",
+          "characteristics": [
+            {
+              "id": "5",
+              "name": "C \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u043e\u0439 \u0444\u0435\u0440\u043c\u044b",
+              "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/5-c_lokalnoi_fermy.png?_c=1739163464"
+            }
+          ],
+          "topInformationBadge": "",
+          "information": "<p>\u042f\u0439\u0446\u0430 \u041e\u0442\u0431\u043e\u0440\u043d\u043e\u0439 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 - \u044d\u0442\u043e \u044f\u0439\u0446\u0430, \u043f\u0440\u043e\u0448\u0435\u0434\u0448\u0438\u0435 \u0441\u0442\u0440\u043e\u0433\u0438\u0439 \u043e\u0442\u0431\u043e\u0440 \u043f\u043e \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0443. \u041e\u043d\u0438 \u0438\u043c\u0435\u044e\u0442 \u0446\u0435\u043b\u0443\u044e \u0438 \u0447\u0438\u0441\u0442\u0443\u044e \u0441\u043a\u043e\u0440\u043b\u0443\u043f\u0443, \u044f\u0440\u043a\u0438\u0439 \u0436\u0435\u043b\u0442\u043e\u043a \u0438 \u043f\u043b\u043e\u0442\u043d\u044b\u0439 \u0431\u0435\u043b\u043e\u043a.</p>",
+          "rating": {
+            "value": "4,8",
+            "reviews": "5 \u043e\u0446\u0435\u043d\u043e\u043a"
+          },
+          "pharmProperties": null,
+          "titleIcon": null,
+          "additionalInformation": {
+            "unitStepType": "pcs",
+            "categoryLevel3Id": "20114",
+            "categoryLevel1": "\u041c\u043e\u043b\u043e\u043a\u043e, \u0441\u044b\u0440 \u0438 \u044f\u0439\u0446\u0430",
+            "categoryLevel2": "\u042f\u0439\u0446\u0430, \u043c\u0430\u0441\u043b\u043e, \u043c\u0430\u0440\u0433\u0430\u0440\u0438\u043d",
+            "categoryLevel3": "\u042f\u0439\u0446\u0430",
+            "bonusesAwardedPercent": 0
+          },
+          "superAppDeeplink": "https://freedombank.onelink.me/WNLd/hyd08z1c",
+          "canBeDeliveredByDrone": false,
+          "banners": []
+        },
+        {
+          "id": "333372",
+          "catalogId": "20114",
+          "catalogName": "\u042f\u0439\u0446\u0430, \u043c\u0430\u0441\u043b\u043e, \u043c\u0430\u0440\u0433\u0430\u0440\u0438\u043d",
+          "parentCatalogId": 225245,
+          "lang": "ru",
+          "name": "\u042f\u0439\u0446\u043e Arbuz Select \u043f\u0435\u0440\u0435\u043f\u0435\u043b\u0438\u043d\u043e\u0435 (250 \u0433) 20\u0448\u0442",
+          "producerCountry": "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+          "brandName": "Arbuz Select",
+          "description": "",
+          "htmlDescription": "",
+          "compound": "",
+          "uri": "/ru/almaty/catalog/item/333372-yaico_arbuz_select_perepelinoe_250_g_20sht",
+          "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__d874e46e-56b0-4ee2-97cc-ffbf411844f3-2_png.png?w=%w&h=%h&_c=1764933991",
+          "measure": "\u0448\u0442",
+          "isWeighted": false,
+          "weightAvg": 0,
+          "weightMin": 1,
+          "weightMax": 100,
+          "weight": "1 \u0448\u0442",
+          "pieceWeightMax": 0,
+          "pieceWeightMin": 1,
+          "sellByPiece": false,
+          "quantityMinStep": 1,
+          "priceActual": 859,
+          "priceSpecial": null,
+          "friendsDiscount": "",
+          "discount": "",
+          "pricePrevious": 0,
+          "isMain": false,
+          "isRecommended": false,
+          "recommendationType": null,
+          "articleIndex": "",
+          "articleGroup": "",
+          "barcode": "",
+          "badges": [],
+          "contents": {
+            "data": [
+              {
+                "title": "",
+                "content": ""
+              }
+            ]
+          },
+          "isAvailable": true,
+          "quantityExpress": 158,
+          "benefits": {
+            "defaultCashbackPercent": 0,
+            "friendsCashbackPercent": 5,
+            "defaultBonusAmount": 0,
+            "friendsBonusAmount": 43
+          },
+          "discountAmount": null,
+          "isNew": false,
+          "cashback": "",
+          "notify": null,
+          "groupId": 1,
+          "sellerLabel": null,
+          "isPromotional": false,
+          "hasPromotion": false,
+          "isExpressAvailable": true,
+          "isLocal": false,
+          "linkRel": null,
+          "isVerified": false,
+          "verifiedLabel": null,
+          "nutrition": {
+            "fats": "11,09",
+            "kcal": "158",
+            "carbs": "0,41",
+            "protein": "13,05"
+          },
+          "ingredients": null,
+          "storageConditions": "\u0421\u0440\u043e\u043a \u0433\u043e\u0434\u043d\u043e\u0441\u0442\u0438 \u0438 \u0443\u0441\u043b\u043e\u0432\u0438\u044f \u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f: \u0445\u0440\u0430\u043d\u0438\u0442\u044c \u043f\u0440\u0438 \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0435 \u043e\u0442 0 &deg;\u0421 \u0434\u043e +8 &deg;\u0421 \u0438 \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0432\u043b\u0430\u0436\u043d\u043e\u0441\u0442\u0438 \u0432\u043e\u0437\u0434\u0443\u0445\u0430 75-80 % - 30 \u0441\u0443\u0442\u043e\u043a.",
+          "characteristics": null,
+          "topInformationBadge": "",
+          "information": "\u041f\u0435\u0440\u0435\u043f\u0435\u043b\u0438\u043d\u044b\u0435 \u044f\u0439\u0446\u0430 \u043e\u0431\u043b\u0430\u0434\u0430\u044e\u0442 \u0432\u0441\u0435\u043c\u0438 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u044b\u043c\u0438 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043c\u0443 \u043c\u0438\u043a\u0440\u043e\u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430\u043c\u0438 \u0438 \u043f\u043e\u043b\u0435\u0437\u043d\u044b\u043c\u0438 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430\u043c\u0438. \u041e\u043d\u0438 \u043c\u043e\u0433\u0443\u0442 \u0431\u044b\u0442\u044c \u0443\u043f\u043e\u0442\u0440\u0435\u0431\u043b\u0435\u043d\u044b \u0441\u044b\u0440\u044b\u043c\u0438, \u0436\u0430\u0440\u0435\u043d\u044b\u043c\u0438 \u0438\u043b\u0438 \u0432\u0430\u0440\u0435\u043d\u044b\u043c\u0438. \u0411\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u0441\u0432\u043e\u0435\u043c\u0443 \u0434\u0438\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u043c\u0443 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0443, \u044d\u0442\u043e\u0442 \u043f\u0440\u043e\u0434\u0443\u043a\u0442 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0443\u043f\u043e\u0442\u0440\u0435\u0431\u043b\u0435\u043d \u043b\u044e\u0434\u044c\u043c\u0438 \u0441 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f\u043c\u0438 \u0436\u0435\u043b\u0443\u0434\u043e\u0447\u043d\u043e-\u043a\u0438\u0448\u0435\u0447\u043d\u043e\u0433\u043e \u0442\u0440\u0430\u043a\u0442\u0430. \u0412\u043a\u0443\u0441\u043e\u0432\u044b\u0435 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u043f\u0435\u0440\u0435\u043f\u0435\u043b\u0438\u043d\u044b\u0445 \u044f\u0438\u0446 \u0442\u0430\u043a\u0436\u0435 \u043e\u0442\u043b\u0438\u0447\u043d\u044b.",
+          "rating": {
+            "value": "4,8",
+            "reviews": "3 \u043e\u0446\u0435\u043d\u043a\u0438"
+          },
+          "pharmProperties": null,
+          "titleIcon": null,
+          "additionalInformation": {
+            "unitStepType": "pcs",
+            "categoryLevel3Id": "20114",
+            "categoryLevel1": "\u041c\u043e\u043b\u043e\u043a\u043e, \u0441\u044b\u0440 \u0438 \u044f\u0439\u0446\u0430",
+            "categoryLevel2": "\u042f\u0439\u0446\u0430, \u043c\u0430\u0441\u043b\u043e, \u043c\u0430\u0440\u0433\u0430\u0440\u0438\u043d",
+            "categoryLevel3": "\u042f\u0439\u0446\u0430",
+            "bonusesAwardedPercent": 0
+          },
+          "superAppDeeplink": "https://freedombank.onelink.me/WNLd/4exdk3wl",
+          "canBeDeliveredByDrone": false,
+          "banners": []
+        },
+        {
+          "id": "330993",
+          "catalogId": "20114",
+          "catalogName": "\u042f\u0439\u0446\u0430, \u043c\u0430\u0441\u043b\u043e, \u043c\u0430\u0440\u0433\u0430\u0440\u0438\u043d",
+          "parentCatalogId": 225245,
+          "lang": "ru",
+          "name": "\u042f\u0439\u0446\u0430 Arbuz Select \"\u0424\u0435\u0440\u043c\u0435\u0440\u0441\u043a\u043e\u0435\" \u043e\u0442\u0431\u043e\u0440\u043d\u043e\u0435 20 \u0448\u0442",
+          "producerCountry": "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+          "brandName": "Arbuz Select",
+          "description": "",
+          "htmlDescription": "",
+          "compound": "",
+          "uri": "/ru/almaty/catalog/item/330993-yaica_arbuz_select_fermerskoe_otbornoe_20_sht",
+          "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__d80e9133-daa5-44dd-b3c6-ab69ce76f64e-330993_1_png.png?w=%w&h=%h&_c=1755518024",
+          "measure": "\u0448\u0442",
+          "isWeighted": false,
+          "weightAvg": 0,
+          "weightMin": 1,
+          "weightMax": 100,
+          "weight": "1 \u0448\u0442",
+          "pieceWeightMax": 0,
+          "pieceWeightMin": 0,
+          "sellByPiece": false,
+          "quantityMinStep": 1,
+          "priceActual": 2299,
+          "priceSpecial": null,
+          "friendsDiscount": "",
+          "discount": "",
+          "pricePrevious": 0,
+          "isMain": false,
+          "isRecommended": false,
+          "recommendationType": null,
+          "articleIndex": "",
+          "articleGroup": "",
+          "barcode": "",
+          "badges": [
+            {
+              "text": "\u0421 \u0444\u0435\u0440\u043c\u044b",
+              "backgroundColor": "#F0AE2E",
+              "textColor": "#FFFFFF",
+              "position": "bottom",
+              "priority": 5
+            }
+          ],
+          "contents": {
+            "data": [
+              {
+                "title": "",
+                "content": ""
+              }
+            ]
+          },
+          "isAvailable": true,
+          "quantityExpress": 353,
+          "benefits": {
+            "defaultCashbackPercent": 0,
+            "friendsCashbackPercent": 5,
+            "defaultBonusAmount": 0,
+            "friendsBonusAmount": 115
+          },
+          "discountAmount": null,
+          "isNew": false,
+          "cashback": "",
+          "notify": null,
+          "groupId": 1,
+          "sellerLabel": null,
+          "isPromotional": false,
+          "hasPromotion": false,
+          "isExpressAvailable": true,
+          "isLocal": true,
+          "linkRel": null,
+          "isVerified": false,
+          "verifiedLabel": null,
+          "nutrition": {
+            "fats": "9,5",
+            "kcal": "143",
+            "carbs": "0,7",
+            "protein": "12,6"
+          },
+          "ingredients": null,
+          "storageConditions": "\u0425\u0440\u0430\u043d\u0438\u0442\u044c \u043f\u0440\u0438 \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0435 \u043e\u0442 0&deg;\u0421 \u0434\u043e +20&deg;\u0421 \u0438 \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0432\u043b\u0430\u0436\u043d\u043e\u0441\u0442\u0438 85-88% - 25 \u0421\u0423\u0422\u041e\u041a.",
+          "characteristics": [
+            {
+              "id": "5",
+              "name": "C \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u043e\u0439 \u0444\u0435\u0440\u043c\u044b",
+              "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/5-c_lokalnoi_fermy.png?_c=1739163464"
+            }
+          ],
+          "topInformationBadge": "",
+          "information": "<p>\u0424\u0435\u0440\u043c\u0435\u0440\u0441\u043a\u0438\u0435 \u044f\u0439\u0446\u0430 \u043e\u0442\u0431\u043e\u0440\u043d\u044b\u0435 - \u044d\u0442\u043e \u044f\u0439\u0446\u0430, \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u043d\u044b\u0435 \u043e\u0442 \u043a\u0443\u0440, \u0432\u044b\u0440\u0430\u0449\u0435\u043d\u043d\u044b\u0445 \u0432 \u043d\u0430\u0442\u0443\u0440\u0430\u043b\u044c\u043d\u044b\u0445 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445 \u0441 \u0434\u043e\u0441\u0442\u0443\u043f\u043e\u043c \u043a \u0441\u0432\u0435\u0436\u0435\u043c\u0443 \u0432\u043e\u0437\u0434\u0443\u0445\u0443 \u0438 \u043a\u043e\u0440\u043c\u0443 \u0431\u0435\u0437 \u0434\u043e\u0431\u0430\u0432\u043e\u043a \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0432\u0435\u0449\u0435\u0441\u0442\u0432. \u041e\u043d\u0438 \u0438\u043c\u0435\u044e\u0442 \u043f\u0440\u043e\u0447\u043d\u0443\u044e \u0441\u043a\u043e\u0440\u043b\u0443\u043f\u0443, \u044f\u0440\u043a\u0438\u0439 \u043e\u0440\u0430\u043d\u0436\u0435\u0432\u044b\u0439 \u0436\u0435\u043b\u0442\u043e\u043a \u0438 \u043d\u0430\u0441\u044b\u0449\u0435\u043d\u043d\u044b\u0439 \u0432\u043a\u0443\u0441. \u042d\u0442\u0438 \u044f\u0439\u0446\u0430 \u0431\u043e\u0433\u0430\u0442\u044b \u0432\u0438\u0442\u0430\u043c\u0438\u043d\u0430\u043c\u0438, \u043c\u0438\u043d\u0435\u0440\u0430\u043b\u0430\u043c\u0438 \u0438 \u043f\u043e\u043b\u0435\u0437\u043d\u044b\u043c\u0438 \u0436\u0438\u0440\u043d\u044b\u043c\u0438 \u043a\u0438\u0441\u043b\u043e\u0442\u0430\u043c\u0438, \u0447\u0442\u043e \u0434\u0435\u043b\u0430\u0435\u0442 \u0438\u0445 \u0431\u043e\u043b\u0435\u0435 \u043f\u0438\u0442\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u043c\u0438 \u0438 \u043f\u043e\u043b\u0435\u0437\u043d\u044b\u043c\u0438 \u043f\u043e \u0441\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u044e \u0441 \u043f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u044b\u043c\u0438 \u044f\u0439\u0446\u0430\u043c\u0438.</p>",
+          "rating": {
+            "value": "4,9",
+            "reviews": "22 \u043e\u0446\u0435\u043d\u043a\u0438"
+          },
+          "pharmProperties": null,
+          "titleIcon": null,
+          "additionalInformation": {
+            "unitStepType": "pcs",
+            "categoryLevel3Id": "20114",
+            "categoryLevel1": "\u041c\u043e\u043b\u043e\u043a\u043e, \u0441\u044b\u0440 \u0438 \u044f\u0439\u0446\u0430",
+            "categoryLevel2": "\u042f\u0439\u0446\u0430, \u043c\u0430\u0441\u043b\u043e, \u043c\u0430\u0440\u0433\u0430\u0440\u0438\u043d",
+            "categoryLevel3": "\u042f\u0439\u0446\u0430",
+            "bonusesAwardedPercent": 0
+          },
+          "superAppDeeplink": "https://freedombank.onelink.me/WNLd/5v5bg1xu",
+          "canBeDeliveredByDrone": false,
+          "banners": []
+        }
+      ],
+      "page": {
+        "current": 1,
+        "last": 13,
+        "first": 1,
+        "next": 2,
+        "previous": 1,
+        "limit": 10,
+        "count": 129
+      },
+      "sort": [
+        {
+          "name": "\u041f\u043e \u0446\u0435\u043d\u0435",
+          "slug": "price",
+          "selected": 0,
+          "values": [
+            {
+              "name": "\u0411\u0435\u0437 \u0441\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u043a\u0438",
+              "value": 0,
+              "label": null
+            },
+            {
+              "name": "\u041f\u043e \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0430\u043d\u0438\u044e",
+              "value": 1,
+              "label": "\u0426\u0435\u043d\u0430 \u043f\u043e \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0430\u043d\u0438\u044e"
+            },
+            {
+              "name": "\u041f\u043e \u0443\u0431\u044b\u0432\u0430\u043d\u0438\u044e",
+              "value": -1,
+              "label": "\u0426\u0435\u043d\u0430 \u043f\u043e \u0443\u0431\u044b\u0432\u0430\u043d\u0438\u044e"
+            }
+          ]
+        },
+        {
+          "name": "\u041f\u043e \u0430\u043b\u0444\u0430\u0432\u0438\u0442\u0443",
+          "slug": "name",
+          "selected": 0,
+          "values": [
+            {
+              "name": "\u041b\u0443\u0447\u0448\u0435\u0435 \u0441\u043e\u0432\u043f\u0430\u0434\u0435\u043d\u0438\u0435",
+              "value": 0,
+              "label": null
+            },
+            {
+              "name": "\u0410-\u042f",
+              "value": 1,
+              "label": "\u041f\u043e \u0430\u043b\u0444\u0430\u0432\u0438\u0442\u0443"
+            },
+            {
+              "name": "\u042f-\u0410",
+              "value": -1,
+              "label": null
+            }
+          ]
+        }
+      ],
+      "filters": [
+        {
+          "name": "\u0426\u0435\u043d\u0430",
+          "slug": "price",
+          "values": {
+            "max": 10635,
+            "min": 204,
+            "from": 204,
+            "to": 10635
+          },
+          "type": "range"
+        },
+        {
+          "name": "\u041d\u043e\u0432\u0438\u043d\u043a\u0438",
+          "slug": "new",
+          "selected": false,
+          "count": 2,
+          "type": "bool"
+        },
+        {
+          "name": "\u0422\u043e\u0432\u0430\u0440\u044b \u0441\u043e \u0441\u043a\u0438\u0434\u043a\u043e\u0439",
+          "slug": "sale",
+          "values": [
+            {
+              "name": "\u0421\u043a\u0438\u0434\u043a\u0438 \u0434\u043b\u044f \u0432\u0441\u0435\u0445",
+              "count": 18,
+              "slug": "action",
+              "selected": false
+            }
+          ],
+          "type": "check"
+        },
+        {
+          "name": "\u0414\u0438\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u0440\u0435\u0434\u043f\u043e\u0447\u0442\u0435\u043d\u0438\u044f",
+          "slug": "diet_preferences",
+          "values": [
+            {
+              "name": "C \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u043e\u0439 \u0444\u0435\u0440\u043c\u044b",
+              "count": 11,
+              "selected": false
+            },
+            {
+              "name": "\u0425\u0430\u043b\u0430\u043b",
+              "count": 33,
+              "selected": false
+            }
+          ],
+          "type": "check"
+        },
+        {
+          "name": "\u0411\u0440\u0435\u043d\u0434\u044b",
+          "slug": "brands",
+          "values": [
+            {
+              "name": "3 \u0416\u0435\u043b\u0430\u043d\u0438\u044f",
+              "count": 5,
+              "selected": false
+            },
+            {
+              "name": "\u041c\u043e\u043b\u043e\u0447\u043d\u044b\u0439 \u041c\u0438\u0440",
+              "count": 3,
+              "selected": false
+            },
+            {
+              "name": "\u041a\u0425 \u0412\u0430\u043a",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u041a\u0430\u0437\u0433\u0435\u0440-\u049a\u04b1\u0441",
+              "count": 12,
+              "selected": false
+            },
+            {
+              "name": "\u041a\u0440\u0435\u0441\u0442\u044c\u044f\u043d\u0441\u043a\u043e\u0435",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u041c\u0430\u0441\u043b\u0435\u043d\u043a\u043e\u0432\u043e",
+              "count": 12,
+              "selected": false
+            },
+            {
+              "name": "\u041c\u0430\u0441\u043b\u043e-\u0414\u0435\u043b",
+              "count": 7,
+              "selected": false
+            },
+            {
+              "name": "\u041c\u0430\u0441\u043b\u0451\u043d\u043a\u0438\u043d\u043e",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u041c\u0430\u0441\u043b\u0451\u043d\u043a\u043e\u0432\u043e",
+              "count": 4,
+              "selected": false
+            },
+            {
+              "name": "\u041c\u043e\u043b\u043e\u0447\u043d\u044b\u0439 \u0431\u0438\u0434\u043e\u043d\u0447\u0438\u043a",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u0417\u043b\u0430\u0442\u044b\u0435 \u0433\u043e\u0440\u044b",
+              "count": 8,
+              "selected": false
+            },
+            {
+              "name": "\u041f\u0435\u0442\u0440\u043e\u043f\u0430\u0432\u043b\u043e\u0432\u0441\u043a\u043e\u0435",
+              "count": 2,
+              "selected": false
+            },
+            {
+              "name": "\u041f\u0440\u043e\u0441\u0442\u043e\u043a\u0432\u0430\u0448\u0438\u043d\u043e",
+              "count": 2,
+              "selected": false
+            },
+            {
+              "name": "\u041f\u0442\u0438\u0446\u044b\u043d\u043e-\u041a\u0443\u0440\u0438\u0446\u044b\u043d\u043e",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u041f\u044b\u0448\u043a\u0430",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u0421\u0430\u0440\u044b-\u0411\u0443\u043b\u0430\u043a",
+              "count": 4,
+              "selected": false
+            },
+            {
+              "name": "\u0421\u0443\u043b\u0442\u0430\u043d",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u0425\u0443\u0442\u043e\u0440\u043e\u043a",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u0418\u0440\u0442\u044b\u0448",
+              "count": 4,
+              "selected": false
+            },
+            {
+              "name": "\u0411\u0440\u0435\u0441\u0442-\u041b\u0438\u0442\u043e\u0432\u0441\u043a",
+              "count": 5,
+              "selected": false
+            },
+            {
+              "name": "Adal",
+              "count": 2,
+              "selected": false
+            },
+            {
+              "name": "Global Retail",
+              "count": 4,
+              "selected": false
+            },
+            {
+              "name": "Amiran",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "Arbuz Select",
+              "count": 12,
+              "selected": false
+            },
+            {
+              "name": "AySafi",
+              "count": 2,
+              "selected": false
+            },
+            {
+              "name": "Dep",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "Eurasian Foods",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "Foodz",
+              "count": 2,
+              "selected": false
+            },
+            {
+              "name": "Fresh House",
+              "count": 5,
+              "selected": false
+            },
+            {
+              "name": "Lolo",
+              "count": 3,
+              "selected": false
+            },
+            {
+              "name": "\u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442",
+              "count": 4,
+              "selected": false
+            },
+            {
+              "name": "Natige",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "Organic",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "President",
+              "count": 3,
+              "selected": false
+            },
+            {
+              "name": "QarQus",
+              "count": 6,
+              "selected": false
+            },
+            {
+              "name": "Rama",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u0410\u0439\u0441",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u0411\u0430\u0433\u0440\u0430\u0442\u0438\u043e\u043d",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u0428\u0438\u043d \u041b\u0430\u0439\u043d",
+              "count": 2,
+              "selected": false
+            }
+          ],
+          "type": "check"
+        },
+        {
+          "name": "\u0421\u0442\u0440\u0430\u043d\u044b",
+          "slug": "countries",
+          "values": [
+            {
+              "name": "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+              "count": 7,
+              "selected": false
+            },
+            {
+              "name": "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+              "count": 113,
+              "selected": false
+            },
+            {
+              "name": "\u041a\u0438\u0442\u0430\u0439",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u0420\u043e\u0441\u0441\u0438\u044f",
+              "count": 5,
+              "selected": false
+            },
+            {
+              "name": "\u0422\u0443\u0440\u0446\u0438\u044f",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u0424\u0440\u0430\u043d\u0446\u0438\u044f",
+              "count": 1,
+              "selected": false
+            }
+          ],
+          "type": "check"
+        }
+      ],
+      "count": 129
+    },
+    "banners": []
+  },
+  "$layout": {
+    "body": {
+      "components": []
+    }
+  }
+}

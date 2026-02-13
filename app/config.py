@@ -13,10 +13,7 @@ class Settings(BaseSettings):
     openai_api_key: str | None
 
     # optionals
-    arbuz_api_base: HttpUrl = HttpUrl("https://arbuz.kz/api/v1/")
-
-    def api(self, path: str):
-        return str(self.arbuz_api_base) + path
+    arbuz_base_url: HttpUrl = HttpUrl("https://arbuz.kz/")
 
 
 settings = Settings()  # noqa

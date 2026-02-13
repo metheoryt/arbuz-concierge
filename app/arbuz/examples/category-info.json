@@ -1,0 +1,453 @@
+{
+  "data": {
+    "id": "225245",
+    "parentId": "225161",
+    "name": "\u042f\u0439\u0446\u0430, \u043c\u0430\u0441\u043b\u043e, \u043c\u0430\u0440\u0433\u0430\u0440\u0438\u043d",
+    "uri": "/ru/almaty/catalog/cat/225245-yaica_maslo_margarin",
+    "catalogCount": 3,
+    "sort": 4,
+    "description": "",
+    "deliveryTime": null,
+    "deliveryStartAt": null,
+    "deliveryEndAt": null,
+    "isActive": 1,
+    "iconSvg": null,
+    "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225245-yaica.png?w=%w&h=%h&_c=1751630802",
+    "iconRect": null,
+    "iconRectPng": null,
+    "iconRectSquare": null,
+    "iconCategoryPng": null,
+    "cssClass": null,
+    "action": null,
+    "isElasticsearch": true,
+    "parent": {
+      "data": {
+        "id": "225161",
+        "parentId": "0",
+        "name": "\u041c\u043e\u043b\u043e\u043a\u043e, \u0441\u044b\u0440 \u0438 \u044f\u0439\u0446\u0430",
+        "uri": "/ru/almaty/catalog/cat/225161-moloko_syr_i_yaica",
+        "catalogCount": 5,
+        "sort": 2,
+        "isActive": 1,
+        "iconSvg": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225161-moloko_syr_maslo_yaica.svg",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225161-moloko_syr_maslo_yaica.png?w=%w&h=%h&_c=1767604872",
+        "iconRect": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225161-moloko_syr_maslo_yaica_rectangle_svg.svg",
+        "iconRectPng": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225161-moloko_syr_maslo_yai_ca_pryamougolnya_png.png?w=%w&h=%h&_c=1767604872",
+        "iconRectSquare": "https://arbuz.kz/image/s3/arbuz-kz-catalogs/225161-moloko_syr_maslo_yaica_square_svg.svg",
+        "iconCategoryPng": null,
+        "parent": null,
+        "catalogs": {
+          "data": []
+        }
+      }
+    },
+    "catalogs": {
+      "data": [
+        {
+          "id": "20114",
+          "parentId": "225245",
+          "name": "\u042f\u0439\u0446\u0430",
+          "uri": "/ru/almaty/catalog/cat/20114-yaica",
+          "catalogCount": 39,
+          "sort": 1,
+          "isActive": 1,
+          "iconSvg": null,
+          "iconPng": null,
+          "iconRect": null,
+          "iconRectPng": null,
+          "iconRectSquare": null,
+          "iconCategoryPng": null
+        },
+        {
+          "id": "20040",
+          "parentId": "225245",
+          "name": "\u0421\u043b\u0438\u0432\u043e\u0447\u043d\u043e\u0435 \u043c\u0430\u0441\u043b\u043e",
+          "uri": "/ru/almaty/catalog/cat/20040-slivochnoe_maslo",
+          "catalogCount": 63,
+          "sort": 2,
+          "isActive": 1,
+          "iconSvg": null,
+          "iconPng": null,
+          "iconRect": null,
+          "iconRectPng": null,
+          "iconRectSquare": null,
+          "iconCategoryPng": null
+        },
+        {
+          "id": "224760",
+          "parentId": "225245",
+          "name": "\u041c\u0430\u0440\u0433\u0430\u0440\u0438\u043d, \u0441\u043f\u0440\u0435\u0434",
+          "uri": "/ru/almaty/catalog/cat/224760-margarin_spred",
+          "catalogCount": 27,
+          "sort": 3,
+          "isActive": 1,
+          "iconSvg": null,
+          "iconPng": null,
+          "iconRect": null,
+          "iconRectPng": null,
+          "iconRectSquare": null,
+          "iconCategoryPng": null
+        }
+      ]
+    },
+    "products": {
+      "data": [],
+      "page": {
+        "current": 1,
+        "last": 0,
+        "first": 1,
+        "next": 2,
+        "previous": 1,
+        "limit": 0,
+        "count": 129
+      },
+      "sort": [
+        {
+          "name": "\u041f\u043e \u0446\u0435\u043d\u0435",
+          "slug": "price",
+          "selected": 0,
+          "values": [
+            {
+              "name": "\u0411\u0435\u0437 \u0441\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u043a\u0438",
+              "value": 0,
+              "label": null
+            },
+            {
+              "name": "\u041f\u043e \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0430\u043d\u0438\u044e",
+              "value": 1,
+              "label": "\u0426\u0435\u043d\u0430 \u043f\u043e \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0430\u043d\u0438\u044e"
+            },
+            {
+              "name": "\u041f\u043e \u0443\u0431\u044b\u0432\u0430\u043d\u0438\u044e",
+              "value": -1,
+              "label": "\u0426\u0435\u043d\u0430 \u043f\u043e \u0443\u0431\u044b\u0432\u0430\u043d\u0438\u044e"
+            }
+          ]
+        },
+        {
+          "name": "\u041f\u043e \u0430\u043b\u0444\u0430\u0432\u0438\u0442\u0443",
+          "slug": "name",
+          "selected": 0,
+          "values": [
+            {
+              "name": "\u041b\u0443\u0447\u0448\u0435\u0435 \u0441\u043e\u0432\u043f\u0430\u0434\u0435\u043d\u0438\u0435",
+              "value": 0,
+              "label": null
+            },
+            {
+              "name": "\u0410-\u042f",
+              "value": 1,
+              "label": "\u041f\u043e \u0430\u043b\u0444\u0430\u0432\u0438\u0442\u0443"
+            },
+            {
+              "name": "\u042f-\u0410",
+              "value": -1,
+              "label": null
+            }
+          ]
+        }
+      ],
+      "filters": [
+        {
+          "name": "\u0426\u0435\u043d\u0430",
+          "slug": "price",
+          "values": {
+            "max": 10635,
+            "min": 204,
+            "from": 204,
+            "to": 10635
+          },
+          "type": "range"
+        },
+        {
+          "name": "\u041d\u043e\u0432\u0438\u043d\u043a\u0438",
+          "slug": "new",
+          "selected": false,
+          "count": 2,
+          "type": "bool"
+        },
+        {
+          "name": "\u0422\u043e\u0432\u0430\u0440\u044b \u0441\u043e \u0441\u043a\u0438\u0434\u043a\u043e\u0439",
+          "slug": "sale",
+          "values": [
+            {
+              "name": "\u0421\u043a\u0438\u0434\u043a\u0438 \u0434\u043b\u044f \u0432\u0441\u0435\u0445",
+              "count": 18,
+              "slug": "action",
+              "selected": false
+            }
+          ],
+          "type": "check"
+        },
+        {
+          "name": "\u0414\u0438\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u0440\u0435\u0434\u043f\u043e\u0447\u0442\u0435\u043d\u0438\u044f",
+          "slug": "diet_preferences",
+          "values": [
+            {
+              "name": "C \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u043e\u0439 \u0444\u0435\u0440\u043c\u044b",
+              "count": 11,
+              "selected": false
+            },
+            {
+              "name": "\u0425\u0430\u043b\u0430\u043b",
+              "count": 33,
+              "selected": false
+            }
+          ],
+          "type": "check"
+        },
+        {
+          "name": "\u0411\u0440\u0435\u043d\u0434\u044b",
+          "slug": "brands",
+          "values": [
+            {
+              "name": "3 \u0416\u0435\u043b\u0430\u043d\u0438\u044f",
+              "count": 5,
+              "selected": false
+            },
+            {
+              "name": "\u041c\u043e\u043b\u043e\u0447\u043d\u044b\u0439 \u041c\u0438\u0440",
+              "count": 3,
+              "selected": false
+            },
+            {
+              "name": "\u041a\u0425 \u0412\u0430\u043a",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u041a\u0430\u0437\u0433\u0435\u0440-\u049a\u04b1\u0441",
+              "count": 12,
+              "selected": false
+            },
+            {
+              "name": "\u041a\u0440\u0435\u0441\u0442\u044c\u044f\u043d\u0441\u043a\u043e\u0435",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u041c\u0430\u0441\u043b\u0435\u043d\u043a\u043e\u0432\u043e",
+              "count": 12,
+              "selected": false
+            },
+            {
+              "name": "\u041c\u0430\u0441\u043b\u043e-\u0414\u0435\u043b",
+              "count": 7,
+              "selected": false
+            },
+            {
+              "name": "\u041c\u0430\u0441\u043b\u0451\u043d\u043a\u0438\u043d\u043e",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u041c\u0430\u0441\u043b\u0451\u043d\u043a\u043e\u0432\u043e",
+              "count": 4,
+              "selected": false
+            },
+            {
+              "name": "\u041c\u043e\u043b\u043e\u0447\u043d\u044b\u0439 \u0431\u0438\u0434\u043e\u043d\u0447\u0438\u043a",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u0417\u043b\u0430\u0442\u044b\u0435 \u0433\u043e\u0440\u044b",
+              "count": 8,
+              "selected": false
+            },
+            {
+              "name": "\u041f\u0435\u0442\u0440\u043e\u043f\u0430\u0432\u043b\u043e\u0432\u0441\u043a\u043e\u0435",
+              "count": 2,
+              "selected": false
+            },
+            {
+              "name": "\u041f\u0440\u043e\u0441\u0442\u043e\u043a\u0432\u0430\u0448\u0438\u043d\u043e",
+              "count": 2,
+              "selected": false
+            },
+            {
+              "name": "\u041f\u0442\u0438\u0446\u044b\u043d\u043e-\u041a\u0443\u0440\u0438\u0446\u044b\u043d\u043e",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u041f\u044b\u0448\u043a\u0430",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u0421\u0430\u0440\u044b-\u0411\u0443\u043b\u0430\u043a",
+              "count": 4,
+              "selected": false
+            },
+            {
+              "name": "\u0421\u0443\u043b\u0442\u0430\u043d",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u0425\u0443\u0442\u043e\u0440\u043e\u043a",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u0418\u0440\u0442\u044b\u0448",
+              "count": 4,
+              "selected": false
+            },
+            {
+              "name": "\u0411\u0440\u0435\u0441\u0442-\u041b\u0438\u0442\u043e\u0432\u0441\u043a",
+              "count": 5,
+              "selected": false
+            },
+            {
+              "name": "Adal",
+              "count": 2,
+              "selected": false
+            },
+            {
+              "name": "Global Retail",
+              "count": 4,
+              "selected": false
+            },
+            {
+              "name": "Amiran",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "Arbuz Select",
+              "count": 12,
+              "selected": false
+            },
+            {
+              "name": "AySafi",
+              "count": 2,
+              "selected": false
+            },
+            {
+              "name": "Dep",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "Eurasian Foods",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "Foodz",
+              "count": 2,
+              "selected": false
+            },
+            {
+              "name": "Fresh House",
+              "count": 5,
+              "selected": false
+            },
+            {
+              "name": "Lolo",
+              "count": 3,
+              "selected": false
+            },
+            {
+              "name": "\u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442",
+              "count": 4,
+              "selected": false
+            },
+            {
+              "name": "Natige",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "Organic",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "President",
+              "count": 3,
+              "selected": false
+            },
+            {
+              "name": "QarQus",
+              "count": 6,
+              "selected": false
+            },
+            {
+              "name": "Rama",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u0410\u0439\u0441",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u0411\u0430\u0433\u0440\u0430\u0442\u0438\u043e\u043d",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u0428\u0438\u043d \u041b\u0430\u0439\u043d",
+              "count": 2,
+              "selected": false
+            }
+          ],
+          "type": "check"
+        },
+        {
+          "name": "\u0421\u0442\u0440\u0430\u043d\u044b",
+          "slug": "countries",
+          "values": [
+            {
+              "name": "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+              "count": 7,
+              "selected": false
+            },
+            {
+              "name": "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+              "count": 113,
+              "selected": false
+            },
+            {
+              "name": "\u041a\u0438\u0442\u0430\u0439",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u0420\u043e\u0441\u0441\u0438\u044f",
+              "count": 5,
+              "selected": false
+            },
+            {
+              "name": "\u0422\u0443\u0440\u0446\u0438\u044f",
+              "count": 1,
+              "selected": false
+            },
+            {
+              "name": "\u0424\u0440\u0430\u043d\u0446\u0438\u044f",
+              "count": 1,
+              "selected": false
+            }
+          ],
+          "type": "check"
+        }
+      ],
+      "count": 129
+    },
+    "banners": []
+  },
+  "$layout": {
+    "body": {
+      "components": []
+    }
+  }
+}

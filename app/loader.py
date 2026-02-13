@@ -1,18 +1,13 @@
-import json
 import logging
-import re
 import time
 from datetime import UTC, datetime
 from functools import cache
 
-import requests
-from requests import HTTPError, Session as HTTPSession
-from requests.adapters import HTTPAdapter
+import httpx
 from sqlalchemy import desc, select
 from sqlalchemy.orm import Session as SessionClass
-from urllib3.util.retry import Retry
 
-from app.config import settings
+from app.arbuz import api
 from app.db import Session
 from app.db.models import Category, Feature, Product, ProductCategory
 from app.schemas.categories import CategorySchema
@@ -21,50 +16,9 @@ from app.schemas.product import ProductCharacteristic, ProductSchema
 log = logging.getLogger(__name__)
 
 
-# A retry strategy
-retry_strategy = Retry(
-    total=3,
-    backoff_factor=3,
-    status_forcelist=[429, 500, 502, 503, 504],
-    allowed_methods=["GET"],
-    raise_on_status=False,
-)
-
-# Attach this to a session
-adapter = HTTPAdapter(max_retries=retry_strategy)
-
-
-def login():
-    s = HTTPSession()
-    s.mount("https://", adapter)
-
-    log.info("logging in")
-    rs = s.get("https://arbuz.kz")
-    platform_conf_raw_re = re.search(r"window\.platformConfiguration = (.*)?;", rs.text)
-    if not platform_conf_raw_re:
-        raise ValueError("Failed to retrieve platform configuration")
-    platform_conf_raw = platform_conf_raw_re.groups()[0]
-    platform_conf = json.loads(platform_conf_raw)
-    rs = s.post(
-        settings.api("auth/token"),
-        data={
-            "consumer": platform_conf["consumer"]["desktop"]["name"],
-            "key": platform_conf["consumer"]["desktop"]["key"],
-        },
-    )
-    rs.raise_for_status()
-
-    return s
-
-
 @cache
 def get_base_categories() -> dict[int, CategorySchema]:
-    rs = requests.get("https://arbuz.kz/")
-    catalog_tree_raw_re = re.search(r"window\.siteCatalogTree = Object\.values\((.*)?\);", rs.text)
-    if not catalog_tree_raw_re:
-        raise ValueError("Failed to retrieve catalog tree")
-    catalog_tree_raw = catalog_tree_raw_re.groups()[0]
-    catalog_tree = json.loads(catalog_tree_raw)  # {"0": {...}, "1": {...}}
+    catalog_tree = api.get_catalog_tree_json()
     cats = {}
     for category in catalog_tree.values():
         cat = CategorySchema(**category)
@@ -76,21 +30,17 @@ def get_base_categories() -> dict[int, CategorySchema]:
     return cats
 
 
-def get_category_info(s: HTTPSession, cat: CategorySchema) -> tuple[int, list[CategorySchema]]:
+def get_category_info(cat: CategorySchema) -> tuple[int, list[CategorySchema]]:
     log.info("getting info for %s ", cat.name)
-    rs = s.get(settings.api(f"shop/catalog/{cat.id}"), params={"limit": 0, "page": 1})
-    rs.raise_for_status()
-    data = rs.json()
+    data = api.get_category_info_json(cat.id)
     catalogs = [CategorySchema(**c) for c in data["data"]["catalogs"]["data"]]
     product_cnt = data["data"]["products"]["count"]
     return product_cnt, catalogs
 
 
-def get_catalog_products(s: HTTPSession, cat: Category, limit: int = 40, page: int = 1) -> list[ProductSchema]:
+def get_catalog_products(cat: Category, limit: int = 40, page: int = 1) -> list[ProductSchema]:
     log.info("getting %r products, page %d of size %d", cat.name, page, limit)
-    rs = s.get(settings.api(f"shop/catalog/{cat.id}"), params={"limit": limit, "page": page, "sort[mock]": ""})
-    rs.raise_for_status()
-    data = rs.json()
+    data = api.get_catalog_products_json(cat.id, limit, page)
     pss = []
     for i, p in enumerate(data["data"]["products"]["data"]):
         sort_pos = i + 1 + ((page - 1) * limit)
@@ -201,7 +151,7 @@ def import_product(s: SessionClass, ps: ProductSchema) -> Product:
         p.information = ps.information
         p.rating_value = ps.rating.value if ps.rating else None
         p.rating_reviews = ps.rating.reviews if ps.rating else None
-        # mark product as updated
+        # mark the product as updated
         p.updated_at = datetime.now(UTC)
     s.add(p)
 
@@ -228,13 +178,13 @@ def import_products(pss: list[ProductSchema]) -> list[Product]:
     return products
 
 
-def import_category_products(client: HTTPSession, cat: Category, s: SessionClass):
+def import_category_products(cat: Category, s: SessionClass):
     log.info("importing products of %r", cat.name)
     page = 1
     while True:
         try:
-            products = get_catalog_products(client, cat, limit=40, page=page)
-        except HTTPError as e:
+            products = get_catalog_products(cat, limit=40, page=page)
+        except httpx.HTTPStatusError as e:
             if e.response.status_code == 404:
                 log.info("no products found for %r", cat.name)
                 return
@@ -253,14 +203,14 @@ def import_category_products(client: HTTPSession, cat: Category, s: SessionClass
     s.commit()
 
 
-def load_category(cs: CategorySchema, client: HTTPSession, s: SessionClass):
+def load_category(cs: CategorySchema, s: SessionClass):
     import_category(s, cs)
     time.sleep(2)
 
     # look deeper into the category
     try:
-        cnt, sub_css = get_category_info(client, cs)
-    except requests.exceptions.HTTPError as e:
+        cnt, sub_css = get_category_info(cs)
+    except httpx.HTTPStatusError as e:
         if e.response.status_code == 404:
             log.info("category not found: %s", cs.name)
             return
@@ -269,23 +219,21 @@ def load_category(cs: CategorySchema, client: HTTPSession, s: SessionClass):
     if sub_css:
         log.info("importing %d subcategories for %s", len(sub_css), cs.name)
     for sub_cs in sub_css:
-        load_category(sub_cs, client, s)
+        load_category(sub_cs, s)
     s.commit()
 
 
 def load_categories() -> None:
-    client = login()
     base_css = list(get_base_categories().values())
 
     with Session() as s:
         for base_cs in base_css:
-            load_category(base_cs, client, s)
+            load_category(base_cs, s)
 
 
 def load_products() -> None:
-    client = login()
     with Session() as s:
-        # import products only for leaf categories,
+        # import products only for leaf categories
         # because it seems that branch categories don't have any products by themselves
         cats: list[Category] = s.scalars(
             select(Category).where(~Category.children.any()).order_by(desc(Category.updated_at))
@@ -293,7 +241,7 @@ def load_products() -> None:
         log.info("%d categories selected for an update", len(cats))
         for cat in cats:
             time.sleep(2)
-            import_category_products(client, cat, s)
+            import_category_products(cat, s)
 
 
 def load_all():
