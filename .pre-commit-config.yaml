@@ -1,11 +1,11 @@
-default_stages: [pre-commit]
+default_stages: [ pre-commit ]
 
 repos:
   - repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.12.11 # Use the latest version if different
+    rev: v0.15.1 # Use the latest version if different
     hooks:
       # the linter
-      - id: ruff
-        args: [--fix] # auto-apply fix where possible
+      - id: ruff-check
+        args: [ --fix ] # auto-apply fix where possible
       # the formatter
       - id: ruff-format
