@@ -77,7 +77,7 @@ def get_base_categories() -> dict[int, CategorySchema]:
 
 
 def get_category_info(s: HTTPSession, cat: CategorySchema) -> tuple[int, list[CategorySchema]]:
-    log.info("getting info for %s ", cat)
+    log.info("getting info for %s ", cat.name)
     rs = s.get(settings.api(f"shop/catalog/{cat.id}"), params={"limit": 0, "page": 1})
     rs.raise_for_status()
     data = rs.json()
@@ -108,10 +108,10 @@ def import_category(s: SessionClass, cs: CategorySchema) -> Category:
 
     cat = s.scalar(select(Category).where(Category.id == cs.id))
     if not cat:
-        log.info("creating %s", cs)
+        log.info("creating %s", cs.name)
         cat = Category(id=cs.id, name=cs.name, uri=cs.uri, parent=parent_cat)
     else:
-        log.info("updating %s", cs)
+        log.info("updating %s", cs.name)
         cat.name = cs.name
         cat.uri = cs.uri
         cat.parent = parent_cat
@@ -262,7 +262,7 @@ def load_category(cs: CategorySchema, client: HTTPSession, s: SessionClass):
         cnt, sub_css = get_category_info(client, cs)
     except requests.exceptions.HTTPError as e:
         if e.response.status_code == 404:
-            log.info("category not found: %s", cs)
+            log.info("category not found: %s", cs.name)
             return
         else:
             raise
