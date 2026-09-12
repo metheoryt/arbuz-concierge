@@ -1,0 +1,11 @@
+{
+  "sessions": {},
+  "last_refresh": {
+    "commit": "1a6b8861c431fe478091b1307dee1b3dcc9185f8",
+    "date": "2026-09-12",
+    "sessions_processed": [],
+    "tiers_touched": [
+      "project"
+    ]
+  }
+}
